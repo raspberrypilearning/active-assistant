@@ -1,6 +1,6 @@
-## Introduction
+## You will make
 
-In this project, <mark> short project description </mark>
+Create a program that helps you get active in whichever way you like most!
 
 <mark>Boxout (wherever wanted/needed) </mark>
 
@@ -11,64 +11,72 @@ In this project, <mark> short project description </mark>
 <mark>Objectives in language that learners will understand</mark>
 
 You will:
-+ 
-+ 
-+
++ Create your assistant
++ Test and debug your code
++ Build your program step by step
 
 <mark>Image of many different examples in a strip</mark>
+![Examples of projects.](images/surprise-example.png)
 
 --- no-print ---
 
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">  
+<div style="flex-basis: 200px; flex-grow: 1">  
 
-### Try it 
+### Play ▶️ 
 
-Description of what to do or think about when looking at the example.
+Click the micro:bit logo at the top to restart the simulator!
+
+This is a **bleep test** - for people who like running! 
+
+The assistant has three modes:
++ Start up animation
++ The activity
++ Results
+
+1. Press the micro:bit logo at the top to reset the program
+2. Watch the start up animation and instructions
+3. Press B to start the activity
+4. Wait for a few bleeps and then press B to see the results!
 
 </div>
 <div>
-**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495141114/?autostart=false" frameborder="0"></iframe>
-</div>
+**Bleep test!**: [See inside](https://makecode.microbit.org/S44727-82649-75784-15537){:target="_blank"}
+<div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=S44727-82649-75784-15537" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
 </div>
 
---- /task ---
+--- /task ---   
 
-### Get inspiration 
-
-You are going to make some design decisions to ...
+### Get ideas 💭   
 
 --- task ---
 
-Explore these example projects to get more ideas:
+Test these example projects to get ideas. Think about what activity you like to do most:
+
+⭐ Share your finished Active assistant project for a chance of it being featured here.
 
 **Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Under the sea**: [See inside](https://scratch.mit.edu/projects/495866460/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495866460/?autostart=false" frameborder="0"></iframe>
-</div>
-
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
-</div>
 --- /task ---
+
 --- /no-print ---
 
 --- print-only ---
 
 ### Get inspiration 
 
-You are going to make some design decisions to create your character. See inside example projects in [Scratch 1: Googly eye character - Examples](https://scratch.mit.edu/studios/29029028/){:target="_blank"} Scratch studio.
+You will make design decisions think of a way to help you or someone else complete their favourite type of activity! 
+
+Your assistant will need: 
++ A start up animation & instructions
++ A loop or events to use during the activity
++ A way to display results
 
 <mark>one image file per example</mark>
 
