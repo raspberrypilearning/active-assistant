@@ -7,7 +7,7 @@ listed: false
 copyedit: false
 last_tested: '2023-09-26'
 steps:
-- title: You will make
+- title: Introduction
 - title: Start up screen
 - title: Loop or events?
   completion:
