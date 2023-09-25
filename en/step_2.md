@@ -102,7 +102,7 @@ You are going to do this using `Variables`{:class='microbitvariables'} and `Logi
 
 Create a variable called `started`. 
 
-[[[microbit-creating-variable]]]
+[[[microbit-create-variable]]]
 
 --- /task ---
 
