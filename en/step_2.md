@@ -54,15 +54,15 @@ Add some `Basic`{:class='microbitbasic'} blocks to your `on start`{:class='micro
 
 You could show an **icon**, make an **animation** or display a **string**.
 
-[[microbit-icons]]
+[[[microbit-icons]]]
 
-[[microbit-animation]]
+[[[microbit-animation]]]
 
-[[microbit-text]]
+[[[microbit-text]]]
 
 If your start-up screen is complicated you might want to organise the code into a **function**.
 
-[[microbit-function]]
+[[[microbit-function]]]
 
 --- /task ---
 
@@ -90,7 +90,7 @@ You can use **buttons** or **gestures**.
 
 Add instructions (using the `show string`{:class='microbitbasic'}) to the `on start`{:class='microbitbasic'} block so the user knows what to do.
 
-[[microbit-text]]
+[[[microbit-text]]]
 
 --- /task ---
 
@@ -102,7 +102,7 @@ You are going to do this using `Variables`{:class='microbitvariables'} and `Logi
 
 Create a variable called `started`. 
 
-[[microbit-creating-variable]]
+[[[microbit-creating-variable]]]
 
 --- /task ---
 
@@ -120,9 +120,9 @@ At the top of your `on start`{:class='microbitbasic'} block.
 
 Add an event block to your Workspace for the **button** or **gesture** you want to use the start the activity.
 
-[[microbit-button-trigger]]
+[[[microbit-button-trigger]]]
 
-[[microbit-gesture-trigger]]
+[[[microbit-gesture-trigger]]]
 
 --- /task ---
 
