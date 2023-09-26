@@ -34,8 +34,6 @@ Add the event or the `if`{:class='microbitlogic'} block to your project.
 
 [[[microbit-selection]]]
 
-[[[microbit-logic]]]
-
 --- /task ---
 
 ### How to stop?

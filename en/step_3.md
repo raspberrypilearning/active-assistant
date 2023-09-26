@@ -44,9 +44,9 @@ Decide which type of block you are going to use.
 
 [[[microbit-forever-loop]]]
 
-[[[micro-bit-repeat-loop]]]
+[[[microbit-repeat]]]
 
-[[[microbit-for-each-loop]]]
+[[[microbit-for-loop]]]
 
 #### Events
 
