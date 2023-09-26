@@ -130,7 +130,7 @@ Here are some reminders of things you have already done in the Explore projects 
 
 [[[microbit-mic]]]
 
-[[[microbit-movement]]]
+[[[microbit-fine-movement]]]
 
 #### Doing cool stuff
 
