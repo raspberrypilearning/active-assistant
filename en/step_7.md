@@ -6,6 +6,10 @@ You could also show your family how your project works.
 
 You can share your project through MakeCode. You can send a link to people you know!
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+  Being active can boost your <span style="color: #0faeb0">**confidence**</span> and make you feel proud. Every time you learn a new move or finish a game, you prove to yourself what you're capable of. You could say the same about completing a computing project!
+</p>
+
 --- collapse ---
 
 ---

@@ -106,6 +106,10 @@ Run the program and check whether your **start-up** event causes the icon to sho
 
 You are now ready to put together the rest of your assistant, knowing your user can start the activity whenever they like! 
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+  When you're <span style="color: #0faeb0">**active**</span>, you have more energy to play and learn. It's like charging a battery; the more you move, the more power you have for the day.
+</p>
+
 ### Create your assistant. 
 
 The things you need to put inside your loop or event will depend on what type of activity you want to do. 

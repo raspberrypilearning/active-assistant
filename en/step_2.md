@@ -15,16 +15,16 @@ The first step is to make a start-up screen, including an animation and some ins
 What exercise are you making the assistant for?
 
 It might be:
-+ Running
-+ Playing a sport, like football or tennis
-+ Stretching, or doing yoga
-+ Going for a walk to explore nature
++ 🏃🏽‍♀️ Running
++ Playing a sport, like ⚽️ football or 🎾 tennis
++ 🧘🏼 Stretching, or doing yoga
++ 🥾 Going for a walk to explore nature
 
-Everyone should try and be active, but that might be more difficult for some people than others. If you, or the person youa re making this program for, faces challenges moving around consider making a device to help encourage something like:
+Being active is an important part of well being, but the activity might look different for some people. If you, or the person you are making this program for, faces challenges moving around consider making a device to help encourage something like:
 
-+ Seated stretching
-+ Dancing
-+ Breathing exercises
++ 🧘🏼 Seated stretching
++ 🕺🏾 Dancing
++ 😮‍💨 Breathing exercises
 
 You can choose any activity you or your user is able to do.
 
@@ -34,13 +34,38 @@ You can choose any activity you or your user is able to do.
 
 --- task ---
 
-Make a new project on MakeCode for your active assistant. 
+Open the MakeCode editor at [makecode.microbit.org](https://makecode.microbit.org){:target="_blank"}
 
-[[microbit-make-project]]
+--- collapse ---
+
+---
+title: Offline version of the editor
+---
+
+There is also a [downloadable version of the MakeCode editor](https://makecode.microbit.org/offline-app){:target="_blank"}.
+
+--- /collapse ---
+
+--- /task ---
+
+Once the editor is open, you will need to create a new project and give your project a name. 
+
+--- task ---
+
+Click on the **New Project** button.
+
+<img src="images/new-project-button.png" alt="The New Project button inside MakeCode." width="250"/>
+
+--- /task ---
+
+--- task ---
 
 Give your project a name that matches the activity you want to assist!
 
+**Tip:** Give your project a helpful name that relates to the activity you’re creating. This will make it easier to find if you create other projects on MakeCode.
+
 --- /task ---
+
 
 ### Make your start up screen
 
