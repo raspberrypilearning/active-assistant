@@ -35,6 +35,6 @@ You can also allow the user to make some choices about the functionality of the 
 
 If you are using a V2 micro:bit you might also want to log the results to use as a **highscore** or a record of the activity the user has completed.
 
-[[[microbit-datalogger]]]
+[[[microbit-datalogging]]]
 
 --- /task ---
