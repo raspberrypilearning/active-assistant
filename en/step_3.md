@@ -80,7 +80,7 @@ Place it inside the `if`{:class='microbitlogic'} statement.
 
 --- task ---
 
-Now grab a `started`{:class='microbitvariables'} block and a `true`{:class='microbitlogic'} block and place them either side of the ` = `{:class='microbitlogic'} symbol. 
+Now grab a `started`{:class='microbitvariables'} block and a `true`{:class='microbitlogic'} block and place them either side of the `=`{:class='microbitlogic'} symbol. 
 
 --- /task ---
 
