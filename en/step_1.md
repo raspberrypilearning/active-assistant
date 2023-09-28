@@ -50,8 +50,6 @@ Test these example projects to get ideas. Think about what activity you like to 
 
 ⭐ Share your finished Active assistant project for a chance of it being featured here.
 
-<mark>Need to add these when done</mark>
-
 Hang time: [See inside](https://makecode.microbit.org/_R5aR8aFjDYzT){:target="_blank"}
 
 --- collapse ---
@@ -60,21 +58,23 @@ Hang time: [See inside](https://makecode.microbit.org/_R5aR8aFjDYzT){:target="_b
 title: Hang time user manual
 ---
 
-This project lets you improve your upper body strength by hanging from a low bar (no dangerous heights, please!) for a time you can set. The default time is 10 seconds.
+This project lets you improve your upper body strength by hanging from a low bar (no dangerous heights, please!) for a time you can set. 
 
-Download the code to your micro:bit and run it on batteries.
+- The default hang time is 10 seconds.
 
-Set a hang time goal: Press Button A to increase the time goal by one second and Button B to decrease it.
+- Download the code to your micro:bit and run it on batteries.
 
-Put the micro:bit in your pocket and, when you are ready, shout "GO"!
+- Set a hang time goal: Press Button A to increase the time goal by one second and Button B to decrease it.
 
-The micro:bit will sense the loud sound and start a timer, beeping every second.
+- Put the micro:bit in your pocket and, when you are ready, shout "GO"!
 
-When you release from the bar, the micro:bit will sense a free fall event and show if you have met your hang time goal.
+- The micro:bit will sense the loud sound and start a timer, beeping every second.
 
-If your hang time was longer than the longest hang time since the micro:bit was powered on, you will also see a stick figure icon!
+- When you release from the bar, the micro:bit will sense a free fall event and show if you have met your hang time goal.
 
-You can see the longest hang time by pressing Buttons A+B together.
+- If your hang time was longer than the longest hang time since the micro:bit was powered on, you will also see a stick figure icon!
+
+- You can see the longest hang time by pressing Buttons A+B together.
 
 --- /collapse ---
 
