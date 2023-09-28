@@ -70,7 +70,7 @@ The final part of your assistant is to create an **end screen**, this might be t
 
 --- task ---
 
-Add some code below the `set started to false`{:class='microbitvariables'} block that use the LEDs to create your end screen. 
+Add some code below the `set started to`{:class='microbitvariables'}`false`{:class='microbitlogic'} block that use the LEDs to create your end screen. 
 
 [[[microbit-icons]]]
 
