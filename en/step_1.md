@@ -50,7 +50,7 @@ Test these example projects to get ideas. Think about what activity you like to 
 
 ⭐ Share your finished Active assistant project for a chance of it being featured here.
 
-Hang time: [See inside](https://makecode.microbit.org/_R5aR8aFjDYzT){:target="_blank"}
+**Hang time**: [See inside](https://makecode.microbit.org/_R5aR8aFjDYzT){:target="_blank"}
 
 --- collapse ---
 
