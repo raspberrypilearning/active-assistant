@@ -1,4 +1,4 @@
-## Assist the activity
+## Loops or events?
 
 Now you have a way to start the activity, next it is time to make the parts that assist the activity. 
 
@@ -10,11 +10,9 @@ You can choose to use a **loop** or **events** for the activity.
 title: Why use a loop?
 ---
 
-Using a loop is the best choice if your assistant is going to **guide** the activity.
+Using a loop is a good choice if your assistant is going to **guide** the activity.
 
-Like in the bleep test example, where the micro:bit is guiding someone to run between two points. 
-
-If your active assistant is going to run the activity, for example doing stretches or dancing. Then you will want to use a loop
+An example of a guided activity is the bleep test, where the micro:bit is telling the user when to start their next run. Other examples are stretching or dancing activities.
 
 --- /collapse ---
 

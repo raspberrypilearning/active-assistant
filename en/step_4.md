@@ -58,7 +58,16 @@ You can use the same event to begin and end the activity.
 
 You just need to use an `if...else`{:class='microbitlogic'} block to control what the `started`{:class='microbitvariables'} variable is set to. 
 
-<div style="position:relative;height:calc(250px + 5em);width:100%;overflow:hidden;"><iframe style="position:relative;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_cqUVAkDFMEDe" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+```microbit
+let started = false
+input.onButtonPressed(Button.A, function () {
+    if (started == false) {
+        started = true
+    } else {
+        started = false
+    }
+})
+```
 
 --- /collapse ---
 

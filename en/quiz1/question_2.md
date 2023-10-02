@@ -13,7 +13,12 @@ Which of these code blocks would allow a user to manually start an active assist
 
 - (x) 
 
-<div style="position:relative;height:calc(150px + 5em);width:100%;overflow:hidden;"><iframe style="position:relative;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_XEmg9zU5kUqH" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+```microbit
+let started = false
+input.onButtonPressed(Button.A, function () {
+    started = true
+})
+```
 
   --- feedback ---
 Yes, this would start an active assistant when the user presses A!
@@ -21,7 +26,12 @@ Yes, this would start an active assistant when the user presses A!
 
 - ( ) 
 
-<div style="position:relative;height:calc(150px + 5em);width:100%;overflow:hidden;"><iframe style="position:relative;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_0Yu8MvRE00Lx" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+```microbit
+let started = false
+input.onButtonPressed(Button.A, function () {
+    started = false
+})
+```
 
   --- feedback ---
 This would **stop** an activity, not start it.
@@ -29,7 +39,12 @@ This would **stop** an activity, not start it.
 
 - ( ) 
 
-<div style="position:relative;height:calc(150px + 5em);width:100%;overflow:hidden;"><iframe style="position:relative;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_daT6RoRdigdM" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+```microbit
+let started = false
+basic.forever(function () {
+    started = false
+})
+```
 
   --- feedback ---
 If you had this code in your program, the activity could **never** start.
@@ -37,7 +52,9 @@ If you had this code in your program, the activity could **never** start.
 
 - ( ) 
 
-<div style="position:relative;height:calc(150px + 5em);width:100%;overflow:hidden;"><iframe style="position:relative;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_DXDR3UEs2RJM" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+```microbit
+let started = true
+```
 
   --- feedback ---
 This would start the activity, but it would happen right away - even if the user didn't want it to start yet.

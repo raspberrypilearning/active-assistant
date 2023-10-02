@@ -2,7 +2,7 @@
 
 Do you have an idea for the exercise you want to make an assistant for?
 
-The first step is to make a start-up screen, including an animation and some instructions for your user on how to start the exercise. 
+The first step is to make a start-up screen, including an animation and instructions on how to start the exercise. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
   <span style="color: #0faeb0">**User experience**</span> design is an important part of creating a product. It means thinking about ways to make your programs easy to understand and use.
@@ -77,7 +77,7 @@ You should make this in the `on start`{:class='microbitbasic'} block of your new
 
 Add some `Basic`{:class='microbitbasic'} blocks to your `on start`{:class='microbitbasic'} block that your user will see when the program starts.
 
-You could show an **icon**, make an **animation** or display a **string**.
+You could show an **icon**, make an **animation** or display some **text**.
 
 [[[microbit-icons]]]
 
@@ -137,7 +137,9 @@ At the top of your `on start`{:class='microbitbasic'} block.
 
 `set`{:class='microbitvariables'} your `started`{:class='microbitvariables'} variable to `false`{:class='microbitlogic'}. 
 
-<div style="position:relative;height:calc(100px + 5em);width:100%;overflow:hidden;"><iframe style="position:relative;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_2JCTrHLR8aos" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+```microbit
+let started = false
+```
 
 --- /task ---
 
@@ -162,8 +164,6 @@ You can **duplicate** the `set`{:class='microbitvariables'} block you just place
 ### Test your program
 
 --- task ---
-
-Test your program. 
 
 Make sure you are happy with your choice of start-up screen, instructions and the event you are using to start the activity.
 

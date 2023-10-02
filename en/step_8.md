@@ -4,7 +4,7 @@ If you are following the [Introduction to micro:bit](https://projects.raspberryp
 
 --- print-only ---
 
-![ProjectName project](images/projectname-project.png)
+![Party game project](images/projectname-project.png)
 
 --- /print-only ---
 
