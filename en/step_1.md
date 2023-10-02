@@ -38,7 +38,7 @@ The assistant has three modes:
 
 </div>
 <div>
-[👀  See the code  👀](https://makecode.microbit.org/S44727-82649-75784-15537){:target="_blank"}
+[👀 See the code 👀](https://makecode.microbit.org/S44727-82649-75784-15537){:target="_blank"}
 <div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=S44727-82649-75784-15537" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
 </div>
@@ -66,7 +66,7 @@ This assistant lets you improve your upper body strength by hanging from a low b
 
 </div>
 <div>
-[👀  See the code  👀](https://makecode.microbit.org/_R5aR8aFjDYzT){:target="_blank"}
+[👀 See the code 👀](https://makecode.microbit.org/_R5aR8aFjDYzT){:target="_blank"}
 <div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_R5aR8aFjDYzT" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
