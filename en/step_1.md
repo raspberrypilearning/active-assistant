@@ -20,33 +20,6 @@ Test these example projects to get ideas. Think about what activity you like to 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Hang time 
-
-This assistant lets you improve your upper body strength by hanging from a low bar (no dangerous heights, please!) for a time you can set. 
-
-+ **Download** the code to your micro:bit and run it on batteries.
-+ The default hang time is 10 seconds.
-+ Set a hang time goal: Press Button A to increase the time goal by one second and Button B to decrease it.
-+ Put the micro:bit in your pocket and, when you are ready, shout "GO"!
-+ The micro:bit will sense the loud sound and start a timer, beeping every second.
-+ When you release from the bar, the micro:bit will sense a free fall event and show if you have met your hang time goal.
-+ If your hang time was longer than the longest hang time since the micro:bit was powered on, you will also see a stick figure icon!
-+ You can see the longest hang time by pressing Buttons A+B together. 
-+ Click the micro:bit logo at the top to restart the simulator!
-
-</div>
-<div>
-**Hang time  **: [See inside](https://makecode.microbit.org/_R5aR8aFjDYzT){:target="_blank"}
-<div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_R5aR8aFjDYzT" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
-</div>
-
---- /task ---
-
---- task ---
-
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1">  
-
 ### Bleep test 
 
 Click the micro:bit logo at the top to restart the simulator!
@@ -71,6 +44,33 @@ The assistant has three modes:
 </div>
 
 --- /task ---  
+
+--- task ---
+
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1">  
+
+### Hang time 
+
+This assistant lets you improve your upper body strength by hanging from a low bar (no dangerous heights, please!) for a time you can set. 
+
++ **Download** the code to your micro:bit and run it on batteries.
++ The default hang time is 10 seconds.
++ Set a hang time goal: Press Button A to increase the time goal by one second and Button B to decrease it.
++ Put the micro:bit in your pocket and, when you are ready, shout "GO"!
++ The micro:bit will sense the loud sound and start a timer, beeping every second.
++ When you release from the bar, the micro:bit will sense a free fall event and show if you have met your hang time goal.
++ If your hang time was longer than the longest hang time since the micro:bit was powered on, you will also see a stick figure icon!
++ You can see the longest hang time by pressing Buttons A+B together. 
++ Click the micro:bit logo at the top to restart the simulator!
+
+</div>
+<div>
+**Hang time**  : [See inside](https://makecode.microbit.org/_R5aR8aFjDYzT){:target="_blank"}
+<div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_R5aR8aFjDYzT" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+</div>
+
+--- /task ---
 
 --- /no-print ---
 
