@@ -55,30 +55,7 @@ Test these example projects to get ideas. Think about what activity you like to 
 
 ### Hang time 
 
-Click the micro:bit logo at the top to restart the simulator!
-
-This is a **bleep test** - for people who like running! 
-
-The assistant has three modes:
-+ Start up animation
-+ The activity
-+ Results
-
-1. Press the micro:bit logo at the top to reset the program
-2. Watch the start up animation and instructions
-3. Press B to start the activity
-4. Wait for a few bleeps and then press B to see the results!
-
-
-</div>
-<div>
-[See inside](https://makecode.microbit.org/_R5aR8aFjDYzT){:target="_blank"}
-<div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_R5aR8aFjDYzT" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
-</div>
-
---- /task ---
-
-This assistant lets you improve your upper body strength.
+This assistant lets you improve your upper body strength by hanging from a low bar (no dangerous heights, please!) for a time you can set. 
 
 + **Download** the code to your micro:bit and run it on batteries.
 + The default hang time is 10 seconds.
@@ -90,7 +67,13 @@ This assistant lets you improve your upper body strength.
 + You can see the longest hang time by pressing Buttons A+B together. 
 + Click the micro:bit logo at the top to restart the simulator!
 
-Hang from a low bar (no dangerous heights, please!) for a time you can set. 
+</div>
+<div>
+**Hang time example**: [See inside](https://makecode.microbit.org/_R5aR8aFjDYzT){:target="_blank"}
+<div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_R5aR8aFjDYzT" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+</div>
+
+--- /task ---
 
 --- /no-print ---
 
