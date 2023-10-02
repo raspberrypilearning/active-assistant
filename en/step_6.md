@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add an introductory sentence. What will learners achieve by the end of this step?
+You could upgrade your project by adding more instructions, allowing the users to choose a difficulty or by logging the data from the results!
 </div>
 <div>
 Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
@@ -11,18 +11,30 @@ Image, gif or video showing what they will achieve by the end of the step. ![](i
 
 --- task ---
 
-Another step of tasks to complete.
+Try adding more to your start-up screen, maybe some instructions for the actual activity? Or another animation? Maybe a countdown timer?
+
+[[[microbit-icons]]]
+
+[[[microbit-animation]]]
+
+[[[microbit-text]]]
+
+[[[microbit-timer]]]
 
 --- /task ---
 
 --- task ---
 
-Step content... 
-Can use:
-**Test:**
-**Choose:**
-**Tip:**
+You can also allow the user to make some choices about the functionality of the assistent. 
+
+[[[microbit-making-choices]]]
 
 --- /task ---
 
---- save ---
+--- task ---
+
+If you are using a V2 micro:bit you might also want to log the results to use as a **highscore** or a record of the activity the user has completed.
+
+[[[microbit-datalogging]]]
+
+--- /task ---

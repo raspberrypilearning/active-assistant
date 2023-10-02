@@ -5,38 +5,59 @@
 legend: Question 2 of 3
 ---
 
-You made Pico say hello in a speech bubble.
+In your project you used `Events`{:class='microbitinput'}, `Variables`{:class='microbitvariables'} and `Logic`{:class='microbitlogic'} to allow the user to manually start the activity. 
 
-```blocks3
-say [Hello!] for [2] secs
-```
-
-Where would you go to find this block?
+Which of these code blocks would allow a user to manually start an active assistant?
 
 --- choices ---
 
 - (x) 
 
-  --- feedback ---
+```microbit
+let started = false
+input.onButtonPressed(Button.A, function () {
+    started = true
+})
+```
 
+  --- feedback ---
+Yes, this would start an active assistant when the user presses A!
   --- /feedback ---
 
 - ( ) 
 
-  --- feedback ---
+```microbit
+let started = false
+input.onButtonPressed(Button.A, function () {
+    started = false
+})
+```
 
+  --- feedback ---
+This would **stop** an activity, not start it.
   --- /feedback ---
 
 - ( ) 
 
-  --- feedback ---
+```microbit
+let started = false
+basic.forever(function () {
+    started = false
+})
+```
 
+  --- feedback ---
+If you had this code in your program, the activity could **never** start.
   --- /feedback ---
 
 - ( ) 
 
-  --- feedback ---
+```microbit
+let started = true
+```
 
+  --- feedback ---
+This would start the activity, but it would happen right away - even if the user didn't want it to start yet.
   --- /feedback ---
 
 --- /choices ---

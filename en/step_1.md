@@ -1,74 +1,107 @@
-## Introduction
+## You will make
 
-In this project, <mark> short project description </mark>
-
-<mark>Boxout (wherever wanted/needed) </mark>
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Term**</span> description of term or interesting phrase.
-</p>
-
-<mark>Objectives in language that learners will understand</mark>
+Create a program that helps you get active in whichever way you like most!
 
 You will:
-+ 
-+ 
-+
++ Create your assistant
++ Test and debug your code
++ Build your program step by step
 
-<mark>Image of many different examples in a strip</mark>
+<mark>Need to figure out how to do it</mark>
+![Examples of projects.](images/surprise-example.png)
 
 --- no-print ---
 
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">  
+<div style="flex-basis: 200px; flex-grow: 1">  
 
-### Try it 
+### Play ▶️ 
 
-Description of what to do or think about when looking at the example.
+Click the micro:bit logo at the top to restart the simulator!
+
+This is a **bleep test** - for people who like running! 
+
+The assistant has three modes:
++ Start up animation
++ The activity
++ Results
+
+1. Press the micro:bit logo at the top to reset the program
+2. Watch the start up animation and instructions
+3. Press B to start the activity
+4. Wait for a few bleeps and then press B to see the results!
 
 </div>
 <div>
-**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495141114/?autostart=false" frameborder="0"></iframe>
-</div>
+**Bleep test!**: [See inside](https://makecode.microbit.org/S44727-82649-75784-15537){:target="_blank"}
+<div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=S44727-82649-75784-15537" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
 </div>
 
---- /task ---
+--- /task ---   
 
-### Get inspiration 
-
-You are going to make some design decisions to ...
+### Get ideas 💭   
 
 --- task ---
 
-Explore these example projects to get more ideas:
+Test these example projects to get ideas. Think about what activity you like to do most:
 
-**Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
-</div>
+⭐ Share your finished Active assistant project for a chance of it being featured here.
 
-**Under the sea**: [See inside](https://scratch.mit.edu/projects/495866460/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495866460/?autostart=false" frameborder="0"></iframe>
-</div>
+**Hang time**: [See inside](https://makecode.microbit.org/_R5aR8aFjDYzT){:target="_blank"}
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
-</div>
+--- collapse ---
+
+---
+title: Hang time user manual
+---
+
+This project lets you improve your upper body strength by hanging from a low bar (no dangerous heights, please!) for a time you can set. 
+
+- The default hang time is 10 seconds.
+
+- Download the code to your micro:bit and run it on batteries.
+
+- Set a hang time goal: Press Button A to increase the time goal by one second and Button B to decrease it.
+
+- Put the micro:bit in your pocket and, when you are ready, shout "GO"!
+
+- The micro:bit will sense the loud sound and start a timer, beeping every second.
+
+- When you release from the bar, the micro:bit will sense a free fall event and show if you have met your hang time goal.
+
+- If your hang time was longer than the longest hang time since the micro:bit was powered on, you will also see a stick figure icon!
+
+- You can see the longest hang time by pressing Buttons A+B together.
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: Hang time simulation
+---
+
+<div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_R5aR8aFjDYzT" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+
+--- /collapse ---
+
 --- /task ---
+
 --- /no-print ---
 
 --- print-only ---
 
 ### Get inspiration 
 
-You are going to make some design decisions to create your character. See inside example projects in [Scratch 1: Googly eye character - Examples](https://scratch.mit.edu/studios/29029028/){:target="_blank"} Scratch studio.
+You will make design decisions think of a way to help you or someone else complete their favourite type of activity! 
+
+Your assistant will need: 
++ A start up animation & instructions
++ A loop or events to use during the activity
++ A way to display results
 
 <mark>one image file per example</mark>
 
