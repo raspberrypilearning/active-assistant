@@ -12,7 +12,7 @@ Have fun!
 legend: Question 1 of 3
 ---
 
-In your project you created an screen to greet your user, which event block did you use to display it?
+In your project you created a screen to greet your user, which event block did you use to display it?
 
 --- choices ---
 
