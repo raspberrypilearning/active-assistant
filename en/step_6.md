@@ -25,7 +25,7 @@ Try adding more to your start-up screen, maybe some instructions for the actual 
 
 --- task ---
 
-You can also allow the user to make some choices about the functionality of the assistent. 
+You can also allow the user to make some choices about the functionality of the assistant. 
 
 [[[microbit-making-choices]]]
 
@@ -39,4 +39,4 @@ If you are using a V2 micro:bit you might also want to log the results to use as
 
 --- /task ---
 
-[[[download-to-microbit]]]
+`[[[download-to-microbit]]]`

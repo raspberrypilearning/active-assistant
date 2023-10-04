@@ -73,19 +73,3 @@ This assistant lets you improve your upper body strength by hanging from a low b
 --- /task ---
 
 --- /no-print ---
-
---- print-only ---
-
-### Get inspiration 
-
-You will make design decisions think of a way to help you or someone else complete their favourite type of activity! 
-
-Your assistant will need: 
-+ A start up animation & instructions
-+ A loop or events to use during the activity
-+ A way to display results
-
-<mark>one image file per example</mark>
-
---- /print-only ---
-
