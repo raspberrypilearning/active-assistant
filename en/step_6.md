@@ -38,3 +38,5 @@ If you are using a V2 micro:bit you might also want to log the results to use as
 [[[microbit-datalogging]]]
 
 --- /task ---
+
+[[[download-to-microbit]]]
