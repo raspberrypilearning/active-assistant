@@ -72,7 +72,7 @@ Place it inside the loop or event(s) you have decided to use.
 
 Open the `Logic`{:class='microbitlogic'} menu and grab the `0 = 0`{:class='microbitlogic'} block. 
 
-Place it inside the `if`{:class='microbitlogic'} statement.
+Place it inside the `true`{:class='microbitlogic'} part of the `if`{:class='microbitlogic'} statement.
 
 --- /task ---
 

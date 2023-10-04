@@ -32,12 +32,12 @@ Yes, this is the event that runs at the beginning of your program!
 The `forever`{:class='microbitbasic'} block is a **loop** that constantly repeats while your program is running, if you put something in here it will be shown again and again.
   --- /feedback ---
 
-- (x) 
+- ( ) 
 
 `on button A pressed`{:class='microbitinput'}
 
   --- feedback ---
-This event only happens when the user presses Button A, no automatically when you run the program.
+This event only happens when the user presses Button A, not automatically when you run the program.
   --- /feedback ---
 
 - ( ) 
