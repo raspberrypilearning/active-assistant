@@ -77,7 +77,7 @@ You should make this in the `on start`{:class='microbitbasic'} block of your new
 
 Add some `Basic`{:class='microbitbasic'} blocks to your `on start`{:class='microbitbasic'} block that your user will see when the program starts.
 
-You could show an **icon**, make an **animation** or display some **text**.
+You could show an **icon**, make an **animation** or display **text**.
 
 [[[microbit-icons]]]
 

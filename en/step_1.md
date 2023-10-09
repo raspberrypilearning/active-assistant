@@ -66,26 +66,10 @@ This assistant lets you improve your upper body strength by hanging from a low b
 
 </div>
 <div>
-[👀 See the code 👀](https://makecode.microbit.org/_R5aR8aFjDYzT){:target="_blank"}
-<div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_R5aR8aFjDYzT" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+[👀 See the code 👀](https://makecode.microbit.org/_H8FRgC5dRe5X){:target="_blank"}
+<div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_H8FRgC5dRe5X" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
 --- /task ---
 
 --- /no-print ---
-
---- print-only ---
-
-### Get inspiration 
-
-You will make design decisions think of a way to help you or someone else complete their favourite type of activity! 
-
-Your assistant will need: 
-+ A start up animation & instructions
-+ A loop or events to use during the activity
-+ A way to display results
-
-<mark>one image file per example</mark>
-
---- /print-only ---
-
