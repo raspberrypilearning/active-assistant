@@ -72,4 +72,27 @@ This assistant lets you improve your upper body strength by hanging from a low b
 
 --- /task ---
 
+--- task ---
+
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1">  
+
+### Dance coach
+
+This dance coach is your active assistant to keep fit, . 
+
++ **Download** the code to your micro:bit and run it on batteries.
++ Press A or B to activate the dance coach
++ When you hear the music, start dancing and your dance time will be logged.
++ If you stop dancing, you will hear a loud beep and you will lose the game.
++ Click the micro:bit logo at the top to restart the simulator!
+
+</div>
+<div>
+[👀 See the code 👀](https://makecode.microbit.org/_PpyEz5asKJYu){:target="_blank"}
+<div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="hhttps://makecode.microbit.org/---run?id=_PpyEz5asKJYu" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+</div>
+
+--- /task ---
+
 --- /no-print ---
