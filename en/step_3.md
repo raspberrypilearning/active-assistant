@@ -147,19 +147,19 @@ Here are some reminders of things you have already done in the Explore projects 
 
 [[[microbit-fine-movement]]]
 
-#### Doing cool stuff
+#### Sound
+
+[[[microbit-playing-sounds]]]
+
+[[[microbit-volume]]]
+
+#### Other
 
 [[[microbit-timer]]]
 
 [[[microbit-counting]]]
 
-[[[microbit-animation]]]
-
 [[[microbit-making-choices]]]
-
-[[[microbit-playing-sounds]]]
-
-[[[microbit-volume]]]
 
 Have a look over the projects you have made throughout the path for inspiration for your assistant.
 
