@@ -40,10 +40,11 @@ The assistant has three modes:
 <div>
 [👀 See the code 👀](https://makecode.microbit.org/S44727-82649-75784-15537){:target="_blank"}
 <div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=S44727-82649-75784-15537" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
-
+</div>
 </div>
 
-![A boy runs to and from a micro:bit twice, each time the LEDs show a heart image and it makes a beeping sound. The video then cuts to show the boy holding the micro:bit as the score is displayed on the LEDs](images/BleepTestLQ.mp4)
+<iframe width="420" height="237" src="https://www.youtube.com/embed/jaPrKvT4g5A?si=QHyyjJ16U8qc3_Ac" title="YouTube video player" alt="A boy runs to and from a micro:bit twice, each time the LEDs show a heart image and it makes a beeping sound. The video then cuts to show the boy holding the micro:bit as the score is displayed on the LEDs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 --- /task ---  
 
@@ -68,6 +69,7 @@ This assistant lets you improve your upper body strength by hanging from a low b
 
 </div>
 <div>
+
 [👀 See the code 👀](https://makecode.microbit.org/_H8FRgC5dRe5X){:target="_blank"}
 <div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_H8FRgC5dRe5X" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
