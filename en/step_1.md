@@ -43,6 +43,8 @@ The assistant has three modes:
 
 </div>
 
+![A boy runs to and from a micro:bit twice, each time the LEDs show a heart image and it makes a beeping sound. The video then cuts to show the boy holding the micro:bit as the score is displayed on the LEDs](images/BleepTestLQ.mp4)
+
 --- /task ---  
 
 --- task ---
