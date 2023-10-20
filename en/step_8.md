@@ -9,11 +9,11 @@ If you are following the [Introduction to micro:bit](https://projects.raspberryp
 
 ### Musical chairs
 
-In this project, The micro:bit is used to control a game of musical chairs.
+In this project, the micro:bit is used to control a game of musical chairs.
 
 The number of players is set to `4`, so line up `3` chairs to play the game!
 
-- Watch the startup animation of someone sitting on a chair.
+- Watch the start-up animation of someone sitting on a chair.
 - A flashing arrow points to the touch logo.
 - When you touch the logo:
   - You are shown a 3,2,1 countdown, then a picture of an empty chair.
@@ -21,7 +21,7 @@ The number of players is set to `4`, so line up `3` chairs to play the game!
   - All players should move around the chairs while the music plays!
   - When the music stops, a 'sit down' animation is shown.
   - All players should try to sit on a chair. The player left standing is removed from the game.
-  - If there is more than one player in the game, `-1` is shown to tell you to remove a chair and a flashing arrow points to the touch logo again.
+  - If there is more than one player still in the game, `-1` is shown to tell you to remove a chair and a flashing arrow points to the touch logo again.
   - When there is only one chair left, the person to sit on it wins (and a smiley face icon is shown).
   
 You can set the number of players using the A and B buttons.
