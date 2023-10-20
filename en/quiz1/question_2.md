@@ -5,7 +5,7 @@
 legend: Question 2 of 3
 ---
 
-In your project you used `Events`{:class='microbitinput'}, `Variables`{:class='microbitvariables'} and `Logic`{:class='microbitlogic'} to allow the user to manually start the activity. 
+In your project you used `Events`{:class='microbitinput'}, `Variables`{:class='microbitvariables'}, and `Logic`{:class='microbitlogic'} to allow the user to manually start the activity. 
 
 Which of these code blocks would allow a user to manually start an active assistant?
 
