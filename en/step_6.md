@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You could upgrade your project by adding more instructions, allowing the users to choose a difficulty or logging the data from the results!
+You could upgrade your project by adding more instructions, allowing the users to choose a difficulty, or logging the data from the results!
 </div>
 <div>
 Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
