@@ -1,6 +1,6 @@
 ## You will make
 
-Create a program that helps you get active in whichever way you like most!
+You will create a program that helps you get active in whichever way you like most!
 
 You will:
 + Create your assistant
@@ -11,7 +11,7 @@ You will:
 
 ### Get ideas 💭   
 
-Test these example projects to get ideas. Think about what activity you like to do most:
+Try these example projects to get some ideas. Think about what activity you like to do most.
 
 ⭐ Share your finished Active assistant project for a chance of it being featured here.
 
@@ -27,12 +27,12 @@ Click the micro:bit logo at the top to restart the simulator!
 This is a **bleep test** - for people who like running! 
 
 The assistant has three modes:
-+ Start up animation
++ Start-up animation
 + The activity
 + Results
 
 1. Press the micro:bit logo at the top to reset the program
-2. Watch the start up animation and instructions
+2. Watch the start-up animation and instructions
 3. Press B to start the activity
 4. Wait for a few bleeps and then press B to see the results!
 
@@ -57,14 +57,14 @@ The assistant has three modes:
 
 This assistant lets you improve your upper body strength by hanging from a low bar (no dangerous heights, please!) for a time you can set. 
 
-+ **Download** the code to your micro:bit and run it on batteries.
-+ The default hang time is 10 seconds.
-+ Set a hang time goal: Press Button A to increase the time goal by one second and Button B to decrease it.
-+ Put the micro:bit in your pocket and, when you are ready, shout "GO"!
-+ The micro:bit will sense the loud sound and start a timer, beeping every second.
-+ When you release from the bar, the micro:bit will sense a free fall event and show if you have met your hang time goal.
++ **Download** the code to your micro:bit and run it on batteries
++ The default hang time is 10 seconds
++ Set a hang time goal: press Button A to increase the time goal by one second and Button B to decrease it
++ Put the micro:bit in your pocket and, when you are ready, shout "GO!"
++ The micro:bit will sense the loud sound and start a timer, beeping every second
++ When you release from the bar, the micro:bit will sense a free-fall event and show if you have met your hang time goal
 + If your hang time was longer than the longest hang time since the micro:bit was powered on, you will also see a stick figure icon!
-+ You can see the longest hang time by pressing Buttons A+B together. 
++ You can see the longest hang time by pressing Buttons A+B together 
 + Click the micro:bit logo at the top to restart the simulator!
 
 </div>
@@ -81,15 +81,15 @@ This assistant lets you improve your upper body strength by hanging from a low b
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Sit up counter (requires V2 micro:bit)
+### Sit-up counter (requires V2 micro:bit)
 
-Use this program to see how lng it takes you to do 10 sit ups!
+Use this program to see how long it takes you to do ten sit-ups!
 
-+ **Download** the code to your micro:bit and run it on batteries.
++ **Download** the code to your micro:bit and run it on batteries
 + Press the logo to start the program
 + Place the micro:bit on your chest, use your hands to hold it in place
 + Lie flat on the ground and start doing sit-ups
-+ When you have completed **10 sit-ups**, check the screen to get your time!
++ When you have completed **ten sit-ups**, check the screen to get your time!
 
 </div>
 <div>
