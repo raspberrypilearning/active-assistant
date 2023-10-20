@@ -1,4 +1,4 @@
-## Start up screen
+## Start-up screen
 
 Do you have an idea for the exercise you want to make an assistant for?
 
@@ -20,7 +20,7 @@ It might be:
 + 🧘🏼 Stretching, or doing yoga
 + 🥾 Going for a walk to explore nature
 
-Being active is an important part of well being, but the activity might look different for some people. If you, or the person you are making this program for, faces challenges moving around consider making a device to help encourage something like:
+Being active is an important part of well-being, but the activity might look different for some people. If you, or the person you are making this program for, faces challenges moving around, consider making a device to help encourage something like:
 
 + 🧘🏼 Seated stretching
 + 🕺🏾 Dancing
@@ -67,9 +67,9 @@ Give your project a name that matches the activity you want to assist!
 --- /task ---
 
 
-### Make your start up screen
+### Make your start-up screen
 
-When your program starts up you don't want it to go right into the activity. Instead you should show your user a small start up screen so they know what the device is for. 
+When your program starts up, you don't want it to go straight into the activity. Instead, you should show your user a start-up screen so they know what the device is for. 
 
 You should make this in the `on start`{:class='microbitbasic'} block of your new project. 
 
@@ -77,7 +77,7 @@ You should make this in the `on start`{:class='microbitbasic'} block of your new
 
 Add some `Basic`{:class='microbitbasic'} blocks to your `on start`{:class='microbitbasic'} block that your user will see when the program starts.
 
-You could show an **icon**, make an **animation** or display **text**.
+You could show an **icon**, make an **animation**, or display **text**.
 
 [[[microbit-icons]]]
 
@@ -85,7 +85,7 @@ You could show an **icon**, make an **animation** or display **text**.
 
 [[[microbit-text]]]
 
-If your start-up screen is complicated you might want to organise the code into a **function**.
+If your start-up screen is complicated, you might want to organise the code into a **function**.
 
 [[[microbit-function]]]
 
@@ -99,13 +99,13 @@ Show it to a friend and see if they know what the program does.
 
 --- /task ---
 
-### Starting the activity
+### Start the activity
 
 You want to make sure the activity doesn't start until the user **wants** it to - they may need to set up equipment or get ready after powering on the micro:bit. 
 
 --- task ---
 
-**Choose:** how you want the user to start the activity. 
+**Choose** how you want the user to start the activity. 
 
 You can use **buttons** or **gestures**.
 
@@ -113,15 +113,15 @@ You can use **buttons** or **gestures**.
 
 --- task ---
 
-Add instructions (using the `show string`{:class='microbitbasic'}) to the `on start`{:class='microbitbasic'} block so the user knows what to do.
+Add instructions (using `show string`{:class='microbitbasic'}) to the `on start`{:class='microbitbasic'} block so that the user knows what to do.
 
 [[[microbit-text]]]
 
 --- /task ---
 
-Next you need to add some code that stops the activity from beginning until the user follows your instructions.
+Next, you need to add some code that prevents the activity from beginning until the user follows your instructions.
 
-You are going to do this using `Variables`{:class='microbitvariables'} and `Logic`{:class='microbitlogic'}
+You will do this using `Variables`{:class='microbitvariables'} and `Logic`{:class='microbitlogic'}.
 
 --- task ---
 
@@ -133,9 +133,7 @@ Create a variable called `started`.
 
 --- task ---
 
-At the top of your `on start`{:class='microbitbasic'} block.
-
-`set`{:class='microbitvariables'} your `started`{:class='microbitvariables'} variable to `false`{:class='microbitlogic'}. 
+At the top of your `on start`{:class='microbitbasic'} block, `set`{:class='microbitvariables'} your `started`{:class='microbitvariables'} variable to `false`{:class='microbitlogic'}. 
 
 ```microbit
 let started = false
@@ -145,7 +143,7 @@ let started = false
 
 --- task ---
 
-Add an event block to your Workspace for the **button** or **gesture** you want to use the start the activity.
+Add an event block to your workspace for the **button** or **gesture** you want to use the start the activity.
 
 [[[microbit-button-trigger]]]
 
@@ -165,6 +163,6 @@ You can **duplicate** the `set`{:class='microbitvariables'} block you just place
 
 --- task ---
 
-Make sure you are happy with your choice of start-up screen, instructions and the event you are using to start the activity.
+Make sure you are happy with your choice of start-up screen, instructions, and the event you are using to start the activity.
 
 --- /task ---
