@@ -57,7 +57,7 @@ let started = true
 ```
 
   --- feedback ---
-This would start the activity, but it would happen right away - even if the user didn't want it to start yet.
+This would start the activity, but it would happen right away — even if the user didn't want it to start yet.
   --- /feedback ---
 
 --- /choices ---
