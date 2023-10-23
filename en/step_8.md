@@ -1,6 +1,6 @@
 ## What next?
 
-If you are following the [Introduction to micro:bit](https://projects.raspberrypi.org/en/raspberrypi/microbit-intro) path, you can move on to the [Party game](https://projects.raspberrypi.org/en/projects/party-game) project. In this project, you will make a a version of your favourite party game to play with your friends and family.
+If you are following the [Introduction to micro:bit](https://projects.raspberrypi.org/en/raspberrypi/microbit-intro) path, you can move on to the [Party game](https://projects.raspberrypi.org/en/projects/party-game) project. In this project, you will make a version of your favourite party game to play with your friends and family.
 
 --- no-print ---
 
