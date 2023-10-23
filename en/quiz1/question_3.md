@@ -26,7 +26,7 @@ The user probably needs to know the instructions before starting the activity.
 3. Activity
 
   --- feedback ---
-There might not be anything to show if you displayed the results before the activity.
+There might not be anything to show if you display the results before the activity.
   --- /feedback ---
 
 - (x) 
