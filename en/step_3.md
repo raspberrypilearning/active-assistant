@@ -1,8 +1,8 @@
 ## Loops or events?
 
-Now you have a way to start the activity, next it is time to make the parts that assist the activity. 
+Now you have created a way to start the program, it's time to make the parts of the program that will assist you with the activity. 
 
-You can choose to use **loops** or **events** for the activity. 
+You can choose to use **loops** or **events** for these parts of your program. 
 
 --- collapse ---
 
@@ -58,7 +58,7 @@ Add the blocks you need into your workspace.
 
 ### Add in some Logic
 
-Earlier, you added some code to **start** the activity. You need to make sure you use the `started`{:class='microbitvariables'} variable to control when the activity is running. 
+Earlier, you added some code to let the user **start** the activity. You need to make sure you use the `started`{:class='microbitvariables'} variable to control when the activity is running. 
 
 --- task ---
 
@@ -107,7 +107,7 @@ input.onButtonPressed(Button.A, function () {
 
 --- task ---
 
-Test your program
+**Test your program**
 
 Place a `show icon`{:class='microbitbasic'} block inside the `if`{:class='microbitlogic'} block. 
 
