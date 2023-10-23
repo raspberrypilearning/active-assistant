@@ -24,7 +24,7 @@ Try these example projects to get some ideas. Think about what activity you like
 
 Click the micro:bit logo at the top to restart the simulator!
 
-This is a **bleep test** - for people who like running! 
+This is a **bleep test** for people who like running! 
 
 The assistant has three modes:
 + Start-up animation
@@ -43,7 +43,7 @@ The assistant has three modes:
 </div>
 </div>
 
-<iframe width="420" height="237" src="https://www.youtube.com/embed/jaPrKvT4g5A?si=QHyyjJ16U8qc3_Ac" title="YouTube video player" alt="A boy runs to and from a micro:bit twice, each time the LEDs show a heart image and it makes a beeping sound. The video then cuts to show the boy holding the micro:bit as the score is displayed on the LEDs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="420" height="237" src="https://www.youtube.com/embed/jaPrKvT4g5A?si=QHyyjJ16U8qc3_Ac" title="YouTube video player" alt="A boy runs to and from a micro:bit twice, each time the LEDs show a heart image and it makes a beeping sound. The video then cuts to show the boy holding the micro:bit as the score is displayed on the LEDs." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 --- /task ---  
