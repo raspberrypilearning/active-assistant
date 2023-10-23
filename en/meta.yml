@@ -13,7 +13,7 @@ steps:
   completion:
     - engaged
 - title: Ending the activity
-- title: Quick Quiz
+- title: Quick quiz
   knowledge_quiz:
     path: quiz1
     version: 1
