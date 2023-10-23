@@ -34,7 +34,7 @@ You can choose any activity you or your user is able to do.
 
 --- task ---
 
-Open the MakeCode editor at [makecode.microbit.org](https://makecode.microbit.org){:target="_blank"}
+Open the MakeCode editor at [makecode.microbit.org](https://makecode.microbit.org){:target="_blank"}.
 
 --- collapse ---
 
@@ -48,7 +48,7 @@ There is also a [downloadable version of the MakeCode editor](https://makecode.m
 
 --- /task ---
 
-Once the editor is open, you will need to create a new project and give your project a name. 
+Once the editor is open, create a new project and give your project a name. 
 
 --- task ---
 
@@ -69,13 +69,13 @@ Give your project a name that matches the activity you want to assist!
 
 ### Make your start-up screen
 
-When your program starts up, you don't want it to go straight into the activity. Instead, you should show your user a start-up screen so they know what the device is for. 
+When your program starts up, you don't want it to go straight into the activity. Instead, you will show your user a start-up screen so they know what the device is for. 
 
-You should make this in the `on start`{:class='microbitbasic'} block of your new project. 
+You will make this in the `on start`{:class='microbitbasic'} block of your new project. 
 
 --- task ---
 
-Add some `Basic`{:class='microbitbasic'} blocks to your `on start`{:class='microbitbasic'} block that your user will see when the program starts.
+Add some `Basic`{:class='microbitbasic'} blocks to your `on start`{:class='microbitbasic'} block. The blocks you choose will depend on what you want your user to see when the program starts.
 
 You could show an **icon**, make an **animation**, or display **text**.
 
@@ -101,7 +101,7 @@ Show it to a friend and see if they know what the program does.
 
 ### Start the activity
 
-You want to make sure the activity doesn't start until the user **wants** it to - they may need to set up equipment or get ready after powering on the micro:bit. 
+You want to make sure the activity doesn't start until the user **wants** it to — they may need to set up equipment or get ready after powering on the micro:bit. 
 
 --- task ---
 
