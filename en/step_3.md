@@ -24,7 +24,7 @@ title: Why use events?
 
 Events are a good choice if you want your user to interact with the assistant while the activity is happening. 
 
-Like in the keepy-uppy counter example, where the user presses a button to keep count of the amount of times they keep the ball in the air. 
+In a keepy-uppy counter project, a user would press a button to keep count of the amount of times they keep the ball in the air.
 
 If you want to create a counter for your activity, or want a way for the user to change the song while dancing, then you will need to use events!
 
