@@ -27,7 +27,7 @@ Yes, this would start an active assistant when the user presses A!
 - ( ) 
 
 ```microbit
-let started = true
+let started = false
 input.onButtonPressed(Button.A, function () {
     started = false
 })
