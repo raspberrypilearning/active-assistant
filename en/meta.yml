@@ -8,12 +8,12 @@ copyedit: false
 last_tested: '2023-09-26'
 steps:
 - title: Introduction
-- title: Start up screen
+- title: Start-up screen
 - title: Loop or events?
   completion:
     - engaged
 - title: Ending the activity
-- title: Quick Quiz
+- title: Quick quiz
   knowledge_quiz:
     path: quiz1
     version: 1

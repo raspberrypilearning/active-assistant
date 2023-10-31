@@ -12,7 +12,7 @@ Have fun!
 legend: Question 1 of 3
 ---
 
-In your project you created a screen to greet your user, which event block did you use to display it?
+In your project you created a screen to greet your user. Which event block did you use to display it?
 
 --- choices ---
 
@@ -29,7 +29,7 @@ Yes, this is the event that runs at the beginning of your program!
 `forever`{:class='microbitbasic'}
 
   --- feedback ---
-The `forever`{:class='microbitbasic'} block is a **loop** that constantly repeats while your program is running, if you put something in here it will be shown again and again.
+The `forever`{:class='microbitbasic'} block is a **loop** that constantly repeats while your program is running. If you put something in here it will be shown again and again.
   --- /feedback ---
 
 - ( ) 
