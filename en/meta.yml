@@ -3,8 +3,8 @@ title: Active assistant
 hero_image: images/banner.png
 description: Create an assistant to help you when doing your favourite type of exercise!
 version: 1
-listed: false
-copyedit: false
+listed: true
+copyedit: true
 last_tested: '2023-09-26'
 steps:
 - title: Introduction
