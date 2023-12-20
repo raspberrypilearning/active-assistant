@@ -1,38 +1,38 @@
-## What next?
+## Wat kun je verder nog doen?
 
-If you are following the [Introduction to micro:bit](https://projects.raspberrypi.org/en/raspberrypi/microbit-intro) path, you can move on to the [Party game](https://projects.raspberrypi.org/en/projects/party-game) project. In this project, you will make a version of your favourite party game to play with your friends and family.
+Als je het pad [Introductie micro:bit](https://projects.raspberrypi.org/en/raspberrypi/microbit-intro) volgt, kun je doorgaan naar het [Gezelschapsspel](https://projects.raspberrypi.org/en/projects/party-game) project. In dit project maak je een versie van je favoriete gezelschapsspel om met je vrienden en familie te spelen.
 
 \--- no-print ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Musical chairs
+### Stoelendans
 
-In this project, the micro:bit is used to control a game of musical chairs.
+In dit project wordt de micro:bit gebruikt om een stoelendansspel te besturen.
 
-The number of players is set to `4`, so line up `3` chairs to play the game!
+Het aantal spelers is ingesteld op `4`, dus zet `3` stoelen op een rij om het spel te spelen!
 
-- Watch the start-up animation of someone sitting on a chair.
-- A flashing arrow points to the touch logo.
-- When you touch the logo:
-  - You are shown a 3,2,1 countdown, then a picture of an empty chair.
-  - A melody plays for a random amount of time (between 3 and 15 seconds).
-  - All players should move around the chairs while the music plays!
-  - When the music stops, a 'sit down' animation is shown.
-  - All players should try to sit on a chair. The player left standing is removed from the game.
-  - If there is more than one player still in the game, `-1` is shown to tell you to remove a chair and a flashing arrow points to the touch logo again.
-  - When there is only one chair left, the person to sit on it wins (and a smiley face icon is shown).
+- Bekijk de opstartanimatie van iemand die op een stoel zit.
+- Een knipperende pijl wijst naar het logo.
+- Wanneer je het logo aanraakt:
+  - Er wordt 3,2,1 afgeteld en vervolgens een afbeelding van een lege stoel getoond.
+  - Een melodie speelt een willekeurige hoeveelheid tijd (tussen 3 en 15 seconden).
+  - Alle spelers moeten rond de stoelen bewegen terwijl de muziek speelt!
+  - Wanneer de muziek stopt, wordt een 'ga zitten' animatie getoond.
+  - Alle spelers moeten proberen op een stoel te zitten. De speler die overblijft, mag niet meer meedoen aan het spel.
+  - Als er nog meer dan één speler in het spel is, wordt `-1` weergegeven om je te vertellen dat je een stoel moet weghalen en er wijst weer een knipperende pijl naar het logo.
+  - Als er nog maar één stoel over is, wint de persoon die erop gaat zitten (en wordt er een smileypictogram weergegeven).
 
-You can set the number of players using the A and B buttons.
+Je kunt het aantal spelers instellen met de A en B knoppen.
 
-You can shake the micro:bit to reset the game back to `4` players.
+Je kunt de micro:bit schudden om het spel terug te zetten naar `4` spelers.
 
 </div>
 
 <div>
 
-[👀 See the code 👀](https://makecode.microbit.org/_8o7R5MEfC4m3){:target="\_blank"}
+[👀 Bekijk de code 👀](https://makecode.microbit.org/_8o7R5MEfC4m3){:target="_blank"}
 
 <div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_8o7R5MEfC4m3" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
@@ -42,4 +42,4 @@ You can shake the micro:bit to reset the game back to `4` players.
 
 \--- /no-print ---
 
-If you want to have more fun exploring micro:bit, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?hardware%5B%5D=microbit).
+Als je nog meer plezier wilt hebben met het verkennen van de micro:bit, dan kun je [deze projecten](https://projects.raspberrypi.org/en/projects?hardware%5B%5D=microbit) proberen.
