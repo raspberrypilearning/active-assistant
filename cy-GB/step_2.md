@@ -35,7 +35,7 @@ You can choose any activity you or your user is able to do.
 
 \--- task ---
 
-Open the MakeCode editor at [makecode.microbit.org](https://makecode.microbit.org){:target="\_blank"}.
+Open the MakeCode editor at [makecode.microbit.org](https://makecode.microbit.org){:target="_blank"}.
 
 \--- collapse ---
 
@@ -43,7 +43,7 @@ Open the MakeCode editor at [makecode.microbit.org](https://makecode.microbit.or
 
 ## title: Offline version of the editor
 
-There is also a [downloadable version of the MakeCode editor](https://makecode.microbit.org/offline-app){:target="\_blank"}.
+There is also a [downloadable version of the MakeCode editor](https://makecode.microbit.org/offline-app){:target="_blank"}.
 
 \--- /collapse ---
 
@@ -79,15 +79,15 @@ Add some `Basic`{:class='microbitbasic'} blocks to your `on start`{:class='micro
 
 You could show an **icon**, make an **animation**, or display **text**.
 
-\[\[\[microbit-icons]]]
+[[[microbit-icons]]]
 
-\[\[\[microbit-animation]]]
+[[[microbit-animation]]]
 
-\[\[\[microbit-text]]]
+[[[microbit-text]]]
 
 If your start-up screen is complicated, you might want to organise the code into a **function**.
 
-\[\[\[microbit-function]]]
+[[[microbit-function]]]
 
 \--- /task ---
 
@@ -115,7 +115,7 @@ You can use **buttons** or **gestures**.
 
 Add instructions (using `show string`{:class='microbitbasic'}) to the `on start`{:class='microbitbasic'} block so that the user knows what to do.
 
-\[\[\[microbit-text]]]
+[[[microbit-text]]]
 
 \--- /task ---
 
@@ -127,7 +127,7 @@ You will do this using `Variables`{:class='microbitvariables'} and `Logic`{:clas
 
 Create a variable called `started`.
 
-\[\[\[microbit-create-variables]]]
+[[[microbit-create-variables]]]
 
 \--- /task ---
 
@@ -145,9 +145,9 @@ let started = false
 
 Add an event block to your workspace for the **button** or **gesture** you want to use the start the activity.
 
-\[\[\[microbit-button-trigger]]]
+[[[microbit-button-trigger]]]
 
-\[\[\[microbit-gesture-trigger]]]
+[[[microbit-gesture-trigger]]]
 
 \--- /task ---
 
