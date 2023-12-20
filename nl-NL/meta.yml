@@ -1,24 +1,24 @@
 ---
-title: Active assistant
+title: Actieve assistent
 hero_image: images/banner.png
-description: Create an assistant to help you when doing your favourite type of exercise!
+description: Maak een assistent om je te helpen bij jouw favoriete sport!
 version: 1
-listed: false
-copyedit: false
+listed: true
+copyedit: true
 last_tested: '2023-09-26'
 steps:
   - 
-    title: Introduction
+    title: Inleiding
   - 
-    title: Start-up screen
+    title: Startscherm
   - 
-    title: Loop or events?
+    title: Lussen of gebeurtenissen?
     completion:
       - engaged
   - 
-    title: Ending the activity
+    title: De activiteit beëindigen
   - 
-    title: Quick quiz
+    title: Snelle quiz
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -27,8 +27,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Verbeter je project
   - 
-    title: Share and play
+    title: Deel en speel
   - 
-    title: What next?
+    title: Wat kun je verder nog doen?
