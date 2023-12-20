@@ -1,51 +1,51 @@
-## Quick quiz
+## Snelle quiz
 
-Answer the three questions. There are hints to guide you to the correct answer.
+Beantwoord de drie vragen. Er zijn tips om je naar het juiste antwoord te leiden.
 
-When you have answered each question, click on **Check my answer**.
+Klik na het beantwoorden van elke vraag op **Controleer mijn antwoord**.
 
-Have fun!
+Veel plezier!
 
 \--- question ---
 
 ***
 
-## legend: Question 1 of 3
+## legend: Vraag 1 van 3
 
-In your project you created a screen to greet your user. Which event block did you use to display it?
+In je project heb je een scherm gemaakt om je gebruiker te begroeten. Welk gebeurtenisblok heb je gebruikt om dit weer te geven?
 
 \--- choices ---
 
 - (x)
 
-`on start`{:class='microbitbasic'}
+`bij opstarten`{:class='microbitbasic'}
 
 \--- feedback ---
-Yes, this is the event that runs at the beginning of your program!
+Ja, dit is de gebeurtenis die aan het begin van je programma wordt uitgevoerd!
 \--- /feedback ---
 
 - ( )
 
-`forever`{:class='microbitbasic'}
+`de hele tijd`{:class='microbitbasic'}
 
 \--- feedback ---
-The `forever`{:class='microbitbasic'} block is a **loop** that constantly repeats while your program is running. If you put something in here it will be shown again and again.
+Het `de hele tijd`{:class='microbitbasic'} blok is een **lus** die voortdurend wordt herhaald terwijl je programma wordt uitgevoerd. Als je hier iets invult, wordt het keer op keer getoond.
 \--- /feedback ---
 
 - ( )
 
-`on button A pressed`{:class='microbitinput'}
+`wanneer knop A wordt ingedrukt`{:class='microbitinput'}
 
 \--- feedback ---
-This event only happens when the user presses Button A, not automatically when you run the program.
+Deze gebeurtenis vindt alleen plaats wanneer de gebruiker op knop A drukt, niet automatisch wanneer je het programma uitvoert.
 \--- /feedback ---
 
 - ( )
 
-`on shake`{:class='microbitinput'}
+`bij schudden`{:class='microbitinput'}
 
 \--- feedback ---
-Shake is a gesture, and this event would only happen when the user shakes the microbit, not automatically at the beginning of the program.
+Schudden is een gebaar en deze gebeurtenis vindt alleen plaats wanneer de gebruiker de microbit schudt, niet automatisch aan het begin van het programma.
 \--- /feedback ---
 
 \--- /choices ---
