@@ -1,0 +1,26 @@
+---
+title: Actieve assistent
+hero_image: images/banner.png
+description: Maak een assistent om je te helpen bij jouw favoriete sport!
+version: 1
+listed: true
+copyedit: true
+last_tested: '2023-09-26'
+steps:
+  - title: Inleiding
+  - title: Startscherm
+  - title: Lussen of gebeurtenissen?
+    completion:
+      - engaged
+  - title: De activiteit beëindigen
+  - title: Snelle quiz
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion:
+      - external
+  - title: Verbeter je project
+  - title: Deel en speel
+  - title: Wat kun je verder nog doen?
