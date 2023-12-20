@@ -2,40 +2,40 @@
 
 ***
 
-## legend: Question 3 of 3
+## legend: Vraag 3 van 3
 
-You built your assistant by breaking it into parts and building them in order. Which order represents the program you made?
+Je hebt je assistent gebouwd door deze in onderdelen te op te delen en ze in volgorde te bouwen. Welke volgorde vertegenwoordigt het programma dat je hebt gemaakt?
 
 \--- choices ---
 
 - ( )
 
-1. Activity
-2. Instructions
-3. Results
+1. Activiteit
+2. Instructies
+3. Resultaten
 
 \--- feedback ---
-The user probably needs to know the instructions before starting the activity.
+De gebruiker moet waarschijnlijk de instructies kennen voordat hij met de activiteit begint.
 \--- /feedback ---
 
 - ( )
 
-1. Results
-2. Instructions
-3. Activity
+1. Resultaten
+2. Instructies
+3. Activiteit
 
 \--- feedback ---
-There might not be anything to show if you display the results before the activity.
+Er is mogelijk niets om weer te geven als je de resultaten voor de activiteit weergeeft.
 \--- /feedback ---
 
 - (x)
 
-1. Instructions
-2. Activity
-3. Results
+1. Instructies
+2. Activiteit
+3. Resultaten
 
 \--- feedback ---
-Yes! You created a start-up screen with instructions, you then made the activity using **loops** or **events**, and finally you displayed an end screen with some results!
+Ja! Je hebt een startscherm gemaakt met instructies en vervolgens hebt je de activiteit gemaakt met **lussen** of **gebeurtenissen**, en tot slot heb je een eindscherm weergegeven met enkele resultaten!
 \--- /feedback ---
 
 \--- /choices ---
