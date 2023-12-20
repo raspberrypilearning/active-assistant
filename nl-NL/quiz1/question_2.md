@@ -1,8 +1,9 @@
 --- question ---
 
-***
+---
 
-## legend: Vraag 2 van 3
+legend: Vraag 2 van 3
+---
 
 In je project heb je `Gebeurtenissen`{:class='microbitinput'}, `Variabelen`{:class='microbitvariables'} en `Logisch`{:class='microbitlogic'} gebruikt om de gebruiker de activiteit handmatig te laten starten.
 
