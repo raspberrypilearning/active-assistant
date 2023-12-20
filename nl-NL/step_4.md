@@ -48,9 +48,10 @@ Pak een `onwaar`{:class='microbitlogic'} blok en vervang de `0` in het `stel in 
 
 --- collapse ---
 
-***
+---
 
-## title: Gebruik dezelfde gebeurtenis om de activiteit te starten en stoppen
+title: Gebruik dezelfde gebeurtenis om de activiteit te starten en stoppen
+---
 
 Als je gebeurtenissen voor je assistent hebt gebruikt, heb je misschien niet veel ongebruikte gebeurtenissen meer over of een plek om een `als`{:class='microbitlogic'} blok te plaatsen om de activiteit te stoppen.
 

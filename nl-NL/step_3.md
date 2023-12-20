@@ -6,9 +6,10 @@ Je kunt kiezen om **lussen** of **gebeurtenissen** te gebruiken voor deze onderd
 
 --- collapse ---
 
-***
+---
 
-## title: Waarom een lus gebruiken?
+title: Waarom een lus gebruiken?
+---
 
 Het gebruik van een lus is een goede keuze als je assistent de activiteit gaat **begeleiden**.
 
@@ -18,9 +19,10 @@ Een voorbeeld van een begeleide activiteit is de coopertest, waar de micro:bit d
 
 --- collapse ---
 
-***
+---
 
-## title: Waarom gebeurtenissen gebruiken?
+title: Waarom gebeurtenissen gebruiken?
+---
 
 Gebeurtenissen zijn een goede keuze als je wilt dat je gebruiker interactie heeft met de assistent wanneer de activiteit plaatsvindt.
 
