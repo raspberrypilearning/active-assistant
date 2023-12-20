@@ -8,9 +8,10 @@ Veel plezier!
 
 --- question ---
 
-***
+---
 
-## legend: Vraag 1 van 3
+legend: Vraag 1 van 3
+---
 
 In je project heb je een scherm gemaakt om je gebruiker te begroeten. Welk gebeurtenisblok heb je gebruikt om dit weer te geven?
 
