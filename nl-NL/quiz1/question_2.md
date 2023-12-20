@@ -2,25 +2,25 @@
 
 ***
 
-## legend: Question 2 of 3
+## legend: Vraag 2 van 3
 
-In your project you used `Events`{:class='microbitinput'}, `Variables`{:class='microbitvariables'}, and `Logic`{:class='microbitlogic'} to allow the user to manually start the activity.
+In je project heb je `Gebeurtenissen`{:class='microbitinput'}, `Variabelen`{:class='microbitvariables'} en `Logisch`{:class='microbitlogic'} gebruikt om de gebruiker de activiteit handmatig te laten starten.
 
-Which of these code blocks would allow a user to manually start an active assistant?
+Welke van deze codeblokken zou een gebruiker in staat stellen handmatig een actieve assistent te starten?
 
 \--- choices ---
 
 - (x)
 
 ```microbit
-let started = false
+let gestart = false
 input.onButtonPressed(Button.A, function () {
-    started = true
+    gestart = true
 })
 ```
 
 \--- feedback ---
-Yes, this would start an active assistant when the user presses A!
+Ja, hierdoor wordt een actieve assistent gestart wanneer de gebruiker op knop A drukt!
 \--- /feedback ---
 
 - ( )
@@ -33,7 +33,7 @@ input.onButtonPressed(Button.A, function () {
 ```
 
 \--- feedback ---
-This would **stop** an activity, not start it.
+Dit zou een activiteit **stoppen**, maar niet starten.
 \--- /feedback ---
 
 - ( )
@@ -46,7 +46,7 @@ basic.forever(function () {
 ```
 
 \--- feedback ---
-If you had this code in your program, the activity could **never** start.
+Als je deze code in je programma had kan de activiteit **nooit** starten.
 \--- /feedback ---
 
 - ( )
@@ -56,7 +56,7 @@ let started = true
 ```
 
 \--- feedback ---
-This would start the activity, but it would happen right away — even if the user didn't want it to start yet.
+Dit zou de activiteit starten, maar het zou meteen gebeuren - zelfs als de gebruiker niet wilde dat het al zou beginnen.
 \--- /feedback ---
 
 \--- /choices ---
