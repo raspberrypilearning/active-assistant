@@ -10,13 +10,13 @@ You could upgrade your project by adding more instructions, allowing the users t
 
 Try adding more to your start-up screen, maybe some instructions for the actual activity? Or another animation? Maybe a countdown timer?
 
-\[\[\[microbit-icons]]]
+[[[microbit-icons]]]
 
-\[\[\[microbit-animation]]]
+[[[microbit-animation]]]
 
-\[\[\[microbit-text]]]
+[[[microbit-text]]]
 
-\[\[\[microbit-timer]]]
+[[[microbit-timer]]]
 
 \--- /task ---
 
@@ -24,7 +24,7 @@ Try adding more to your start-up screen, maybe some instructions for the actual 
 
 You can also allow the user to make some choices about the functionality of the assistant.
 
-\[\[\[microbit-making-choices]]]
+[[[microbit-making-choices]]]
 
 \--- /task ---
 
@@ -32,8 +32,8 @@ You can also allow the user to make some choices about the functionality of the 
 
 If you are using a V2 micro:bit you might also want to log the results to use as a **highscore** or a record of the activity the user has completed.
 
-\[\[\[microbit-datalogging]]]
+[[[microbit-datalogging]]]
 
 \--- /task ---
 
-\[\[\[download-to-microbit]]]
+[[[download-to-microbit]]]
