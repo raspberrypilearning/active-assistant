@@ -40,17 +40,17 @@ Decide which type of block you are going to use.
 
 #### Loops
 
-\[\[\[microbit-forever-loop]]]
+[[[microbit-forever-loop]]]
 
-\[\[\[microbit-repeat]]]
+[[[microbit-repeat]]]
 
-\[\[\[microbit-for-loop]]]
+[[[microbit-for-loop]]]
 
 #### Events
 
-\[\[\[microbit-button-trigger]]]
+[[[microbit-button-trigger]]]
 
-\[\[\[microbit-gesture-trigger]]]
+[[[microbit-gesture-trigger]]]
 
 Add the blocks you need into your workspace.
 
@@ -133,33 +133,33 @@ Here are some reminders of things you have already done in the Explore projects 
 
 #### Use the LEDs
 
-\[\[\[microbit-icons]]]
+[[[microbit-icons]]]
 
-\[\[\[microbit-animation]]]
+[[[microbit-animation]]]
 
-\[\[\[microbit-text]]]
+[[[microbit-text]]]
 
-\[\[\[microbit-plot-graph]]]
+[[[microbit-plot-graph]]]
 
 #### Use sensors
 
-\[\[\[microbit-mic]]]
+[[[microbit-mic]]]
 
-\[\[\[microbit-fine-movement]]]
+[[[microbit-fine-movement]]]
 
 #### Sound
 
-\[\[\[microbit-playing-sounds]]]
+[[[microbit-playing-sounds]]]
 
-\[\[\[microbit-volume]]]
+[[[microbit-volume]]]
 
 #### Other
 
-\[\[\[microbit-timer]]]
+[[[microbit-timer]]]
 
-\[\[\[microbit-counting]]]
+[[[microbit-counting]]]
 
-\[\[\[microbit-making-choices]]]
+[[[microbit-making-choices]]]
 
 Have a look over the projects you have made throughout the path for inspiration for your assistant.
 
@@ -173,6 +173,6 @@ Make sure it works how you want it to. The activity will not end yet (you will d
 
 Make sure to download it onto a physical micro:bit if you have one, to see how it would work in the real world.
 
-\[\[\[download-to-microbit]]]
+[[[download-to-microbit]]]
 
 \--- /task ---
