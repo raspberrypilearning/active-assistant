@@ -71,7 +71,7 @@ This assistant lets you improve your upper body strength by hanging from a low b
 
 <div>
 
-[👀 See the code 👀](https://makecode.microbit.org/_H8FRgC5dRe5X){:target="\_blank"}
+[👀 See the code 👀](https://makecode.microbit.org/_H8FRgC5dRe5X){:target="_blank"}
 
 <div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_H8FRgC5dRe5X" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
