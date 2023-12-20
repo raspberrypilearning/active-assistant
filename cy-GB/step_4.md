@@ -26,13 +26,13 @@ Add the event or the `if`{:class='microbitlogic'} block to your project.
 
 #### Events
 
-\[\[\[microbit-button-trigger]]]
+[[[microbit-button-trigger]]]
 
-\[\[\[microbit-gesture-trigger]]]
+[[[microbit-gesture-trigger]]]
 
 #### if blocks
 
-\[\[\[microbit-selection]]]
+[[[microbit-selection]]]
 
 \--- /task ---
 
@@ -81,11 +81,11 @@ The final step is to create an **end screen**. This might be the score or count 
 
 Add some code that uses the LEDs to create your end screen. Place it below the `set started to`{:class='microbitvariables'} `false`{:class='microbitlogic'} block.
 
-\[\[\[microbit-icons]]]
+[[[microbit-icons]]]
 
-\[\[\[microbit-animation]]]
+[[[microbit-animation]]]
 
-\[\[\[microbit-text]]]
+[[[microbit-text]]]
 
 \--- /task ---
 
