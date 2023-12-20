@@ -1,59 +1,59 @@
-## Start-up screen
+## Startscherm
 
-Do you have an idea for the exercise you want to make an assistant for?
+Weet je al voor welke oefening je een assistent wilt maken?
 
-The first step is to make a start-up screen, including an animation and instructions on how to start the exercise.
+De eerste stap is het maken van een opstartscherm, inclusief een animatie en instructies over hoe je de oefening kunt starten.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**User experience**</span> design is an important part of creating a product. It means thinking about ways to make your programs easy to understand and use.
+  Het ontwerpen van de <span style="color: #0faeb0">**gebruikerservaring**</span> is een belangrijk onderdeel van het maken van een product. Het betekent dat je nadenkt over manieren hoe je je programma's zo kunt maken dat ze gemakkelijk te begrijpen en te gebruiken zijn.
 </p>
 
-### Decide on your activity
+### Bepaal je activiteit
 
 \--- task ---
 
-What exercise are you making the assistant for?
+Voor welke oefening maak je de assistent?
 
-It might be:
+Het kan zijn:
 
-- 🏃🏽‍♀️ Running
-- Playing a sport, like ⚽️ football or 🎾 tennis
-- 🧘🏼 Stretching, or doing yoga
-- 🥾 Going for a walk to explore nature
+- 🏃🏽‍♀️ Hardlopen
+- Een sport beoefenen, zoals ⚽️ voetbal of 🎾 tennis
+- 🧘🏼 Stretchen, of yoga
+- 🥾 Gaan wandelen om de natuur te verkennen
 
-Being active is an important part of well-being, but the activity might look different for some people. If you, or the person you are making this program for, faces challenges moving around, consider making a device to help encourage something like:
+Actief zijn is een belangrijk onderdeel van ons welzijn, maar voor sommige mensen kan de activiteit er anders uitzien. Als jij, of de persoon voor wie je dit programma maakt, zich niet zo goed kan bewegen, overweeg dan om een apparaat te maken dat zoiets stimuleert als:
 
-- 🧘🏼 Seated stretching
-- 🕺🏾 Dancing
-- 😮‍💨 Breathing exercises
+- 🧘🏼Zittend stretchen
+- 🕺🏾Dansen
+- 😮‍💨Ademhalingsoefeningen
 
-You can choose any activity you or your user is able to do.
+Je kunt elke activiteit kiezen die jij of jouw gebruiker kan uitvoeren.
 
 \--- /task ---
 
-### Create your project
+### Maak je project
 
 \--- task ---
 
-Open the MakeCode editor at [makecode.microbit.org](https://makecode.microbit.org){:target="\_blank"}.
+Open de MakeCode editor in [makecode.microbit.org](https://makecode.microbit.org){:target="_blank"}.
 
 \--- collapse ---
 
 ***
 
-## title: Offline version of the editor
+## title: Offline versie van de editor
 
-There is also a [downloadable version of the MakeCode editor](https://makecode.microbit.org/offline-app){:target="\_blank"}.
+Er is ook een [downloadbare versie van de MakeCode-editor](https://makecode.microbit.org/offline-app){:target="_blank"}.
 
 \--- /collapse ---
 
 \--- /task ---
 
-Once the editor is open, create a new project and give your project a name.
+Zodra de editor is geopend, moet je een nieuw project aanmaken en je project een naam geven.
 
 \--- task ---
 
-Click on the **New Project** button.
+Klik op de knop **Nieuw project**.
 
 <img src="images/new-project-button.png" alt="The New Project button inside MakeCode." width="250"/>
 
@@ -61,79 +61,79 @@ Click on the **New Project** button.
 
 \--- task ---
 
-Give your project a name that matches the activity you want to assist!
+Geef je project een naam die overeenkomt met de activiteit waarvoor je een assistent gaat maken!
 
-**Tip:** Give your project a helpful name that relates to the activity you’re creating. This will make it easier to find if you create other projects on MakeCode.
-
-\--- /task ---
-
-### Make your start-up screen
-
-When your program starts up, you don't want it to go straight into the activity. Instead, you will show your user a start-up screen so they know what the device is for.
-
-You will make this in the `on start`{:class='microbitbasic'} block of your new project.
-
-\--- task ---
-
-Add some `Basic`{:class='microbitbasic'} blocks to your `on start`{:class='microbitbasic'} block. The blocks you choose will depend on what you want your user to see when the program starts.
-
-You could show an **icon**, make an **animation**, or display **text**.
-
-\[\[\[microbit-icons]]]
-
-\[\[\[microbit-animation]]]
-
-\[\[\[microbit-text]]]
-
-If your start-up screen is complicated, you might want to organise the code into a **function**.
-
-\[\[\[microbit-function]]]
+**Tip:** Geef je project een logische naam die betrekking heeft op het programma dat je aan het maken bent. Dit maakt het gemakkelijker om het terug te vinden als je nog andere projecten aanmaakt op MakeCode.
 
 \--- /task ---
 
-\--- task ---
+### Maak je startscherm
 
-Test your start-up screen.
+Wanneer je programma opstart, wil je niet dat het direct naar de activiteit gaat. In plaats daarvan zal je je gebruiker een startscherm laten zien zodat ze weten waar het apparaat voor dient.
 
-Show it to a friend and see if they know what the program does.
-
-\--- /task ---
-
-### Start the activity
-
-You want to make sure the activity doesn't start until the user **wants** it to — they may need to set up equipment or get ready after powering on the micro:bit.
+Je maakt dit in het `bij opstarten`{:class='microbitbasic'} blok van je nieuwe project.
 
 \--- task ---
 
-**Choose** how you want the user to start the activity.
+Vanuit het blokmenu Basis{:class='microbitbasic'} sleep je enkele blokken naar het 'bij opstarten'{:class='microbitbasic'} blok. De blokken die je kiest zijn afhankelijk van wat je wil dat je gebruiker ziet wanneer het programma start.
 
-You can use **buttons** or **gestures**.
+Je kunt een **pictogram**, een **animatie** of **tekst** laten zien.
+
+[[[microbit-icons]]]
+
+[[[microbit-animation]]]
+
+[[[microbit-text]]]
+
+Als het startscherm ingewikkeld is, kun je de code overzichtelijker maken met behulp van een **functie**.
+
+[[[microbit-function]]]
 
 \--- /task ---
 
 \--- task ---
 
-Add instructions (using `show string`{:class='microbitbasic'}) to the `on start`{:class='microbitbasic'} block so that the user knows what to do.
+Test je startscherm.
 
-\[\[\[microbit-text]]]
-
-\--- /task ---
-
-Next, you need to add some code that prevents the activity from beginning until the user follows your instructions.
-
-You will do this using `Variables`{:class='microbitvariables'} and `Logic`{:class='microbitlogic'}.
-
-\--- task ---
-
-Create a variable called `started`.
-
-\[\[\[microbit-create-variables]]]
+Laat het aan een vriend of vriendin zien en kijk of ze begrijpen wat het programma doet.
 
 \--- /task ---
 
+### Start de activiteit
+
+Je wilt er zeker van zijn dat de activiteit pas begint als de gebruiker er **klaar** voor is. Mogelijk moet hij of zij apparatuur instellen of zich klaarmaken nadat de micro:bit is ingeschakeld.
+
 \--- task ---
 
-At the top of your `on start`{:class='microbitbasic'} block, `set`{:class='microbitvariables'} your `started`{:class='microbitvariables'} variable to `false`{:class='microbitlogic'}.
+**Kies** hoe je wilt dat de gebruiker de activiteit opstart.
+
+Je kunt **knoppen** of **gebaren** gebruiken.
+
+\--- /task ---
+
+\--- task ---
+
+Voeg instructies (met behulp van `toon tekens`{:class='microbitbasic'}) toe aan het `bij opstarten`{:class='microbitbasic'} blok, zodat de gebruiker weet wat hij moet doen.
+
+[[[microbit-text]]]
+
+\--- /task ---
+
+Vervolgens moet je code toevoegen die voorkomt dat de activiteit begint zolang de gebruiker de instructies nog aan het volgen is.
+
+Je doet dit met `Variabelen`{:class='microbitvariables'} en `Logisch`{:class='microbitlogic'}.
+
+\--- task ---
+
+Maak een variabele met de naam `gestart`.
+
+[[[microbit-create-variables]]]
+
+\--- /task ---
+
+\--- task ---
+
+Bovenaan je `bij opstarten`{:class='microbitbasic'} blok, `stel`{:class='microbitvariables'} je je `gestart`{:class='microbitvariables'} variabele in op `onwaar`{:class='microbitlogic'}.
 
 ```microbit
 let started = false
@@ -143,26 +143,26 @@ let started = false
 
 \--- task ---
 
-Add an event block to your workspace for the **button** or **gesture** you want to use the start the activity.
+Voeg een gebeurtenis blok toe aan je bewerkingspaneel voor de **knop** of het **gebaar** dat je wil gebruiken om de activiteit te starten.
 
-\[\[\[microbit-button-trigger]]]
+[[[microbit-button-trigger]]]
 
-\[\[\[microbit-gesture-trigger]]]
+[[[microbit-gesture-trigger]]]
 
 \--- /task ---
 
 \--- task ---
 
-Inside the event, `set`{:class='microbitvariables'} the `started`{:class='microbitvariables'} variable to `true`{:class='microbitlogic'}.
+In de gebeurtenis `stel`{:class='microbitvariables'} dan de `gestart`{:class='microbitvariables'} variabele in op `waar`{:class='microbitlogic'}.
 
-You can **duplicate** the `set`{:class='microbitvariables'} block you just placed in the `on start`{:class='microbitbasic'} block.
+Je kunt het `stel`{:class='microbitvariables'} blok dat je zojuist in het `bij opstarten`{:class='microbitbasic'} blok hebt geplaatst dupliceren.
 
 \--- /task ---
 
-### Test your program
+### Test je programma
 
 \--- task ---
 
-Make sure you are happy with your choice of start-up screen, instructions, and the event you are using to start the activity.
+Zorg ervoor dat je tevreden bent met de keuze voor het startscherm, de instructies en de gebeurtenis die je gebruikt om de activiteit te starten.
 
 \--- /task ---
