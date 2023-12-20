@@ -1,62 +1,62 @@
-## Ending the activity
+## De activiteit beëindigen
 
-Awesome work so far! You now have an assistant that will help you or someone else get active.
+Geweldig werk tot nu toe! Je hebt nu een assistent die jou of iemand anders helpt actief te worden.
 
-The final thing to do is to add some code so the activity stops.
+Het laatste wat je moet doen is wat code toevoegen zodat de activiteit stopt.
 
-### When to stop?
+### Wanneer stoppen?
 
 \--- task ---
 
-**Choose:** How you would like your activity to stop.
+**Kies:** Hoe wil je je activiteit laten stoppen.
 
-You can use **events** to stop the activity, such as a button press or gesture.
+Je kunt **gebeurtenissen** gebruiken om de activiteit te stoppen, zoals een druk op de knop of een gebaar.
 
-OR
+OF
 
-You can use **selection**, such as an `if`{:class='microbitlogic'} statement in your **loop** to end your activity.
+Je kunt **selectie** gebruiken, zoals een `als`{:class='microbitlogic'} instructie in je **lus** om je activiteit te beëindigen.
 
-Decide which makes the most sense for your activity, and if you aren't sure which to use, then go for an event.
+Beslis welke het meest zinvol is voor je activiteit, en als je niet zeker weet welke je wilt gebruiken, kies dan een gebeurtenis.
 
 \--- /task ---
 
 \--- task ---
 
-Add the event or the `if`{:class='microbitlogic'} block to your project.
+Voeg de gebeurtenis of het `als`{:class='microbitlogic'} blok toe aan je project.
 
-#### Events
+#### Gebeurtenissen
 
-\[\[\[microbit-button-trigger]]]
+[[[microbit-button-trigger]]]
 
-\[\[\[microbit-gesture-trigger]]]
+[[[microbit-gesture-trigger]]]
 
-#### if blocks
+#### als blokken
 
-\[\[\[microbit-selection]]]
+[[[microbit-selection]]]
 
 \--- /task ---
 
-### How to stop?
+### Hoe kan ik de activiteit stoppen?
 
-To stop, you have to change the `started`{:class='microbitvariables'} variable from `true`{:class='microbitlogic'} to `false`{:class='microbitlogic'}.
+Om te stoppen moet je de variabele `gestart`{:class='microbitvariables'} veranderen van `waar`{:class='microbitlogic'} naar `onwaar`{:class='microbitlogic'}.
 
 \--- task ---
 
-Drag a `set`{:class='microbitvariables'} block from the Toolbox into your event or `if`{:class='microbitlogic'} block.
+Sleep een `stel in op`{:class='microbitvariables'} blok uit de Toolbox naar je gebeurtenis of `als`{:class='microbitlogic'} blok.
 
-Get a `true`{:class='microbitlogic'} block and replace the `0` in the `set`{:class='microbitvariables'} block with it.
+Pak een `onwaar`{:class='microbitlogic'} blok en vervang de `0` in het `stel in op`{:class='microbitvariables'} blok met het waar blok.
 
 \--- collapse ---
 
 ***
 
-## title: Use the same event to start and end the activity
+## title: Gebruik dezelfde gebeurtenis om de activiteit te starten en stoppen
 
-If you have used events for your assistant, you might not have many unused events left or a place to put an `if`{:class='microbitlogic'} block to end the activity.
+Als je gebeurtenissen voor je assistent hebt gebruikt, heb je misschien niet veel ongebruikte gebeurtenissen meer over of een plek om een `als`{:class='microbitlogic'} blok te plaatsen om de activiteit te stoppen.
 
-That's not a problem — you can use the same event to begin and end the activity.
+Dat is geen probleem - je kunt dezelfde gebeurtenis gebruiken om de activiteit te starten en te stoppen.
 
-You just need to use an `if...else`{:class='microbitlogic'} block to control what the `started`{:class='microbitvariables'} variable is set to.
+Je hoeft alleen maar een `als...anders`{:class='microbitlogic'} blok te gebruiken om te bepalen op welke waarde de `gestart`{:class='microbitvariables'} variabele staat.
 
 ```microbit
 let started = false
@@ -73,46 +73,46 @@ input.onButtonPressed(Button.A, function () {
 
 \--- /task ---
 
-### End screen
+### Eindscherm
 
-The final step is to create an **end screen**. This might be the score or count you kept, or a inspirational message to make your user feel good about their activity.
+De laatste stap is het maken van een **eindscherm**. Dit kan de score of telling zijn die je hebt bijgehouden, of een inspirerend bericht om je gebruiker een goed gevoel te geven over zijn of haar activiteit.
 
 \--- task ---
 
-Add some code that uses the LEDs to create your end screen. Place it below the `set started to`{:class='microbitvariables'} `false`{:class='microbitlogic'} block.
+Voeg code toe die de LED's gebruikt om je eindscherm te maken. Plaats het onder het `stel gestart in op`{:class='microbitvariables'} `onwaar`{:class='microbitlogic'} blok.
 
-\[\[\[microbit-icons]]]
+[[[microbit-icons]]]
 
-\[\[\[microbit-animation]]]
+[[[microbit-animation]]]
 
-\[\[\[microbit-text]]]
+[[[microbit-text]]]
 
 \--- /task ---
 
-### Test your assistant
+### Test je assistent
 
 \--- task ---
 
-**Test** your program on the simulator, then download the program onto your physical micro:bit and test it out for real!
+**Test** jouw programma op de simulator, download het programma vervolgens naar je fysieke micro:bit en test het in het echt!
 
-Make sure you are happy with:
+Zorg ervoor dat je tevreden bent met:
 
-- The start-up screen
-- Starting the activity
-- Completing the activity
-- Ending the activity
-- The end screen
+- Het startscherm
+- Het starten van de activiteit
+- De activiteit voltooien
+- De activiteit beëindigen
+- Het eindscherm
 
 \--- /task ---
 
 \--- task ---
 
-**Debug:**
+**Fouten oplossen:**
 
-Make sure to use `pause`{:class='microbitbasic'} blocks to space out your programs.
+Zorg ervoor dat je `pauzeer (ms)`{:class='microbitbasic'} blokken gebruikt om je programma's op de juiste momenten te laten wachten.
 
-You can use `clear screen`{:class='microbitbasic'} blocks to clean up the **UI** and make it exactly like you want.
+Je kunt `wis scherm`{:class='microbitbasic'} blokken gebruiken om de **gebruikersinterface** op te schonen en het precies te maken zoals je wil.
 
-Make sure you set your `Variables`{:class='microbitvariables'} at the start to the values you want them to start with.
+Zorg ervoor dat je je `Variabelen`{:class='microbitvariables'} aan het begin instelt op de waarden waarmee je wilt beginnen.
 
 \--- /task ---
