@@ -76,7 +76,7 @@ Je maakt dit in het `bij opstarten`{:class='microbitbasic'} blok van je nieuwe p
 
 --- task ---
 
-Vanuit het blokmenu Basis{:class='microbitbasic'} sleep je enkele blokken naar het 'bij opstarten'{:class='microbitbasic'} blok. De blokken die je kiest zijn afhankelijk van wat je wil dat je gebruiker ziet wanneer het programma start.
+Vanuit het blokmenu `Basis`{:class='microbitbasic'} sleep je enkele blokken naar het 'bij opstarten'{:class='microbitbasic'} blok. De blokken die je kiest zijn afhankelijk van wat je wil dat je gebruiker ziet wanneer het programma start.
 
 Je kunt een **pictogram**, een **animatie** of **tekst** laten zien.
 

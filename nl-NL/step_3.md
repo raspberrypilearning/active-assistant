@@ -120,7 +120,7 @@ Voer het programma uit en controleer of je **opstart**-gebeurtenis ervoor zorgt 
 Je bent nu klaar om de rest van je assistent samen te stellen, nu dat je weet dat de gebruiker de activiteit kan starten wanneer hij wil!
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  Als je <span style="color: #0faeb0">**actief**</span>bent, heb je meer energie om te spelen en te leren. Het is alsof je een batterij oplaadt; hoe meer je beweegt, hoe meer kracht je hebt voor de dag.
+  Als je <span style="color: #0faeb0">**actief**</span> bent, heb je meer energie om te spelen en te leren. Het is alsof je een batterij oplaadt; hoe meer je beweegt, hoe meer kracht je hebt voor de dag.
 </p>
 
 ### Je assistent maken
