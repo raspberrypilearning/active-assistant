@@ -13,6 +13,8 @@ steps:
   completion:
     - engaged
 - title: Ending the activity
+  completion:
+    - internal
 - title: Quick quiz
   knowledge_quiz:
     path: quiz1
