@@ -9,10 +9,12 @@ last_tested: '2023-09-26'
 steps:
 - title: Introduction
 - title: Start-up screen
-- title: Loop or events?
   completion:
     - engaged
+- title: Loop or events?
 - title: Ending the activity
+  completion:
+    - internal
 - title: Quick quiz
   knowledge_quiz:
     path: quiz1
