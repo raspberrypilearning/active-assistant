@@ -15,7 +15,7 @@ steps:
 - title: Ending the activity
   completion:
     - internal
-- title: Quick quiz
+- title: Refelction
   knowledge_quiz:
     path: quiz1
     version: 1
