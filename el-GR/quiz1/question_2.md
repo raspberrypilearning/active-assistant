@@ -1,26 +1,26 @@
 \--- question ---
 
-***
+---
 
-## legend: Question 2 of 3
+## legend: Ερώτηση 2 από 3
 
-In your project you used `Events`{:class='microbitinput'}, `Variables`{:class='microbitvariables'}, and `Logic`{:class='microbitlogic'} to allow the user to manually start the activity.
+Στο έργο σου χρησιμοποίησες τα `Συμβάντα-Είσοδος`{:class='microbitinput'}, `Μεταβλητές`{:class='microbitvariables'} και `Λογική`{:class='microbitlogic'} για να επιτρέψεις στον χρήστη να ξεκινήσει μη αυτόματα τη δραστηριότητα.
 
-Which of these code blocks would allow a user to manually start an active assistant?
+Ποιο από αυτά τα μπλοκ κώδικα θα επέτρεπε σε έναν χρήστη να ξεκινήσει με μη αυτόματο τρόπο έναν ενεργό βοηθό;
 
 \--- choices ---
 
 - (x)
 
 ```microbit
-let started = false
+let start = false
 input.onButtonPressed(Button.A, function () {
-    started = true
+    start = true
 })
 ```
 
-\--- feedback ---
-Yes, this would start an active assistant when the user presses A!
+\--- ανατρφοδότησ---
+Ναι, θα ξεκινήσει ένας ενεργός βοηθός όταν ο χρήστης πατήσει το A!
 \--- /feedback ---
 
 - ( )
@@ -32,8 +32,8 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-\--- feedback ---
-This would **stop** an activity, not start it.
+\--- ανατροφοδότηση---
+Αυτό θα **σταματούσε** μια δραστηριότητα, δεν θα την ξεκινούσε.
 \--- /feedback ---
 
 - ( )
@@ -45,8 +45,8 @@ basic.forever(function () {
 })
 ```
 
-\--- feedback ---
-If you had this code in your program, the activity could **never** start.
+\--- ανατροφοδότηση ---
+Εάν είχες αυτόν τον κώδικα στο πρόγραμμά σου, η δραστηριότητα δεν θα μπορούσε **ποτέ** να ξεκινήσει.
 \--- /feedback ---
 
 - ( )
@@ -55,8 +55,8 @@ If you had this code in your program, the activity could **never** start.
 let started = true
 ```
 
-\--- feedback ---
-This would start the activity, but it would happen right away — even if the user didn't want it to start yet.
+\--- ανατροφοδότηση ---
+Αυτό θα ξεκινούσε τη δραστηριότητα, αλλά θα γινόταν αμέσως — ακόμα κι αν ο χρήστης δεν ήθελε να ξεκινήσει ακόμα.
 \--- /feedback ---
 
 \--- /choices ---
