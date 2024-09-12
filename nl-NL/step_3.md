@@ -6,7 +6,7 @@ Je kunt kiezen om **lussen** of **gebeurtenissen** te gebruiken voor deze onderd
 
 \--- collapse ---
 
-***
+---
 
 ## title: Waarom een lus gebruiken?
 
@@ -18,7 +18,7 @@ Een voorbeeld van een begeleide activiteit is de coopertest, waar de micro:bit d
 
 \--- collapse ---
 
-***
+---
 
 ## title: Waarom gebeurtenissen gebruiken?
 
