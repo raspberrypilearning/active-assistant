@@ -1,24 +1,26 @@
 ---
-title: Active assistant
+title: Ενεργός βοηθός
 hero_image: images/banner.png
-description: Create an assistant to help you when doing your favourite type of exercise!
+description: Δημιούργησε έναν βοηθό για να σε βοηθήσει όταν κάνεις το αγαπημένο σου είδος άσκησης!
 version: 1
 listed: true
 copyedit: true
 last_tested: '2023-09-26'
 steps:
   - 
-    title: Introduction
+    title: Εισαγωγή
   - 
-    title: Start-up screen
-  - 
-    title: Loop or events?
+    title: Αρχική Οθόνη
     completion:
       - engaged
   - 
-    title: Ending the activity
+    title: Loops or events?
   - 
-    title: Quick quiz
+    title: Τερματισμός της δραστηριότητας
+    completion:
+      - internal
+  - 
+    title: Reflection
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -27,8 +29,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Αναβάθμισε το έργο σου
   - 
-    title: Share and play
+    title: Μοιράσου και παίξε
   - 
-    title: What next?
+    title: Και τώρα;
