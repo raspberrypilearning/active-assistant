@@ -1,14 +1,14 @@
-## Upgrade your project
+## Αναβάθμισε το έργο σου
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You could upgrade your project by adding more instructions, allowing the users to choose a difficulty, or logging the data from the results!
+Μπορείς να αναβαθμίσεις το έργο σας προσθέτοντας περισσότερες οδηγίες, επιτρέποντας στους χρήστες να επιλέξουν ένα βαθμό δυσκολίας ή να καταγράψουν τα δεδομένα από τα αποτελέσματα!
 </div>
 </div>
 
 \--- task ---
 
-Try adding more to your start-up screen, maybe some instructions for the actual activity? Or another animation? Maybe a countdown timer?
+Δοκιμάσες να προσθέσεις περισσότερα στην αρχική οθόνη, ίσως κάποιες οδηγίες για την φυσική δραστηριότητα; Ή κάποια κινούμενη εικόνα; Ίσως ένα χρονόμετρο αντίστροφης μέτρησης;
 
 [[[microbit-icons]]]
 
@@ -22,7 +22,7 @@ Try adding more to your start-up screen, maybe some instructions for the actual 
 
 \--- task ---
 
-You can also allow the user to make some choices about the functionality of the assistant.
+Μπορείς επίσης να επιτρέψεις στον χρήστη να κάνει ορισμένες επιλογές σχετικά με τη λειτουργικότητα του βοηθού.
 
 [[[microbit-making-choices]]]
 
@@ -30,7 +30,7 @@ You can also allow the user to make some choices about the functionality of the 
 
 \--- task ---
 
-If you are using a V2 micro:bit you might also want to log the results to use as a **highscore** or a record of the activity the user has completed.
+Εάν χρησιμοποιείς ένα V2 micro:bit, ίσως θέλεις επίσης να καταγράψεις τα αποτελέσματα για να τα χρησιμοποιήσεις ως **υψηλή βαθμολογία** ή να καταχωρίσεις τη δραστηριότητα που έχει ολοκληρώσει ο χρήστης.
 
 [[[microbit-datalogging]]]
 
