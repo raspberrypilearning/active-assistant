@@ -1,51 +1,51 @@
-## Quick quiz
+## Γρήγορο κουίζ
 
-Answer the three questions. There are hints to guide you to the correct answer.
+Απάντησε στις τρεις ερωτήσεις. Υπάρχουν υποδείξεις που θα σε οδηγήσουν στη σωστή απάντηση.
 
-When you have answered each question, click on **Check my answer**.
+Όταν έχεις απαντήσει σε κάθε ερώτηση, πάτησε στο \*\* Έλεγξε την απάντησή μου\*\*.
 
-Have fun!
+Καλή διασκέδαση!
 
 \--- question ---
 
-***
+---
 
-## legend: Question 1 of 3
+## legend: Ερώτηση 1 από 3
 
-In your project you created a screen to greet your user. Which event block did you use to display it?
+Στο έργο σου δημιούργησες μια οθόνη για να καλωσορίσεις τον χρήστη σου. Ποιο μπλοκ συμβάντων χρησιμοποίησες για να το εμφανίσεις;
 
 \--- choices ---
 
 - (x)
 
-`on start`{:class='microbitbasic'}
+`κατά την έναρξη`{:class='microbitbasic'}
 
-\--- feedback ---
-Yes, this is the event that runs at the beginning of your program!
+\--- ανατροφοδότηση---
+Ναι, αυτό είναι το συμβάν που εκτελείται στην αρχή του προγράμματός σου!
 \--- /feedback ---
 
 - ( )
 
-`forever`{:class='microbitbasic'}
+`για πάντα`{:class='microbitbasic'}
 
-\--- feedback ---
-The `forever`{:class='microbitbasic'} block is a **loop** that constantly repeats while your program is running. If you put something in here it will be shown again and again.
+\--- ανατροφοδότηση---
+Το μπλοκ `για πάντα`{:class='microbitbasic'} είναι ένας **βρόχος** που επαναλαμβάνεται συνεχώς ενώ εκτελείται το πρόγραμμά σου. Εάν βάλεις κάτι εδώ, θα εμφανίζεται ξανά και ξανά.
 \--- /feedback ---
 
 - ( )
 
-`on button A pressed`{:class='microbitinput'}
+`όταν πιεστεί το πλήκτρο button A`{:class='microbitinput'}
 
-\--- feedback ---
-This event only happens when the user presses Button A, not automatically when you run the program.
+\--- ανατροφοδότηση---
+Αυτό το συμβάν εκτελείται μόνο όταν ο χρήστης πατήσει το κουμπί A, όχι αυτόματα όταν εκτελείς το πρόγραμμα.
 \--- /feedback ---
 
 - ( )
 
-`on shake`{:class='microbitinput'}
+`στο κούνημα`{:class='microbitinput'}
 
-\--- feedback ---
-Shake is a gesture, and this event would only happen when the user shakes the microbit, not automatically at the beginning of the program.
+\--- ανατροφοδότηση---
+Το κούνημα είναι μια κίνηση και αυτό το συμβάν θα εκτελεστεί μόνο όταν ο χρήστης ανακινεί το microbit, όχι αυτόματα στην αρχή του προγράμματος.
 \--- /feedback ---
 
 \--- /choices ---
