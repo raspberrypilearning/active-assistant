@@ -1,41 +1,41 @@
 \--- question ---
 
-***
+---
 
-## legend: Question 3 of 3
+## legend: Ερώτηση 3 από 3
 
-You built your assistant by breaking it into parts and building them in order. Which order represents the program you made?
+Δημιούργησες τον βοηθό σου, χωρίζοντας το έργο σε μέρη, τα οποία έχτισες το ένα μετά το άλλο. Ποια σειρά αντιπροσωπεύει το πρόγραμμα που δημιούργησες;
 
 \--- choices ---
 
 - ( )
 
-1. Activity
-2. Instructions
-3. Results
+1. Δραστηριότητα
+2. Οδηγίες
+3. Αποτελέσματα
 
-\--- feedback ---
-The user probably needs to know the instructions before starting the activity.
+\--- ανατροφοδότηση ---
+Ο χρήστης πιθανότατα πρέπει να γνωρίζει τις οδηγίες πριν ξεκινήσει τη δραστηριότητα.
 \--- /feedback ---
 
 - ( )
 
-1. Results
-2. Instructions
-3. Activity
+1. Αποτελέσματα
+2. Οδηγίες
+3. Δραστηριότητα
 
-\--- feedback ---
-There might not be anything to show if you display the results before the activity.
+\--- ανατροφοδότηση ---
+Μπορεί να μην υπάρχει τίποτα που να εμφανίζεται εάν παρουσιάσεις τα αποτελέσματα πριν από τη δραστηριότητα.
 \--- /feedback ---
 
 - (x)
 
-1. Instructions
-2. Activity
-3. Results
+1. Οδηγίες
+2. Δραστηριότητα
+3. Αποτελέσματα
 
-\--- feedback ---
-Yes! You created a start-up screen with instructions, you then made the activity using **loops** or **events**, and finally you displayed an end screen with some results!
+\--- ανατροφοδότηση ---
+Ναι! Δημιούργησες μια αρχική οθόνη με οδηγίες, στη συνέχεια πραγματοποιήσες τη δραστηριότητα χρησιμοποιώντας **βρόχους** ή **συμβάντα** και τελικά εμφάνισες μια τελική οθόνη με κάποια αποτελέσματα!
 \--- /feedback ---
 
 \--- /choices ---
