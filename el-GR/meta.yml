@@ -14,13 +14,13 @@ steps:
     completion:
       - engaged
   - 
-    title: Loops or events?
+    title: Βρόχοι ή συμβάντα;
   - 
     title: Τερματισμός της δραστηριότητας
     completion:
       - internal
   - 
-    title: Reflection
+    title: Αναστοχασμός
     knowledge_quiz:
       path: quiz1
       version: 1
