@@ -11,7 +11,7 @@ steps:
 - title: Start-up screen
   completion:
     - engaged
-- title: Loop or events?
+- title: Loops or events?
 - title: Ending the activity
   completion:
     - internal
