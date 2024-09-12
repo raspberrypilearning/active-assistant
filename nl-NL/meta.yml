@@ -11,14 +11,16 @@ steps:
     title: Inleiding
   - 
     title: Startscherm
-  - 
-    title: Lussen of gebeurtenissen?
     completion:
       - engaged
   - 
-    title: De activiteit beëindigen
+    title: Loops or events?
   - 
-    title: Snelle quiz
+    title: De activiteit beëindigen
+    completion:
+      - internal
+  - 
+    title: Reflection
     knowledge_quiz:
       path: quiz1
       version: 1
