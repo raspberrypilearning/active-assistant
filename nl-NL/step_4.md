@@ -48,7 +48,7 @@ Pak een `onwaar`{:class='microbitlogic'} blok en vervang de `0` in het `stel in 
 
 \--- collapse ---
 
-***
+---
 
 ## title: Gebruik dezelfde gebeurtenis om de activiteit te starten en stoppen
 
