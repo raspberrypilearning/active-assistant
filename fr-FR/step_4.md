@@ -48,7 +48,7 @@ Get a `true`{:class='microbitlogic'} block and replace the `0` in the `set`{:cla
 
 \--- collapse ---
 
-***
+---
 
 ## title: Use the same event to start and end the activity
 
