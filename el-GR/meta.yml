@@ -1,0 +1,28 @@
+---
+title: Ενεργός βοηθός
+hero_image: images/banner.png
+description: Δημιούργησε έναν βοηθό για να σε βοηθήσει όταν κάνεις το αγαπημένο σου είδος άσκησης!
+version: 1
+listed: true
+copyedit: true
+last_tested: '2023-09-26'
+steps:
+  - title: Εισαγωγή
+  - title: Αρχική Οθόνη
+    completion:
+      - engaged
+  - title: Βρόχοι ή συμβάντα;
+  - title: Τερματισμός της δραστηριότητας
+    completion:
+      - internal
+  - title: Αναστοχασμός
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion:
+      - external
+  - title: Αναβάθμισε το έργο σου
+  - title: Μοιράσου και παίξε
+  - title: Και τώρα;
