@@ -6,7 +6,7 @@ You can choose to use **loops** or **events** for these parts of your program.
 
 \--- collapse ---
 
-***
+---
 
 ## title: Why use a loop?
 
@@ -18,7 +18,7 @@ An example of a guided activity is the bleep test, where the micro:bit tells the
 
 \--- collapse ---
 
-***
+---
 
 ## title: Why use events?
 
