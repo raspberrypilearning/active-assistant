@@ -1,44 +1,44 @@
-## Loops or events?
+## Βρόχοι ή συμβάντα;
 
-Now you have created a way to start the program, it's time to make the parts of the program that will assist you with the activity.
+Τώρα που έχεις δημιουργήσει έναν τρόπο για να ξεκινήσει το πρόγραμμα, ήρθε η ώρα να φτιάξεις τα μέρη του προγράμματος που θα σε βοηθήσουν στη δραστηριότητα.
 
-You can choose to use **loops** or **events** for these parts of your program.
+Μπορείς να επιλέξεις να χρησιμοποιήσεις **βρόχους** ή **συμβάντα** για αυτά τα μέρη του προγράμματός σου.
 
 \--- collapse ---
 
-***
+---
 
-## title: Why use a loop?
+## title: Γιατί να χρησιμοποιήσω βρόχο;
 
-Using a loop is a good choice if your assistant is going to **guide** the activity.
+Η χρήση ενός βρόχου είναι μια καλή επιλογή εάν ο βοηθός σου πρόκειται να **καθοδηγήσει** τη δραστηριότητα.
 
-An example of a guided activity is the bleep test, where the micro:bit tells the user when to start their next run. Other examples are stretching or dancing activities.
+Ένα παράδειγμα καθοδηγούμενης δραστηριότητας είναι η δοκιμή μπιπ, όπου το micro:bit λέει στον χρήστη πότε να ξεκινήσει την επόμενη εκτέλεση. Άλλα παραδείγματα είναι οι διατάσεις ή οι δραστηριότητες χορού.
 
 \--- /collapse ---
 
 \--- collapse ---
 
-***
+---
 
-## title: Why use events?
+## title: Γιατί να χρησιμοποιήσω συμβάντα;
 
-Events are a good choice if you want your user to interact with the assistant while the activity is happening.
+Τα συμβάντα είναι μια καλή επιλογή εάν θέλεις ο χρήστης σου να αλληλεπιδρά με τον βοηθό κατά τη διάρκεια της δραστηριότητας.
 
-In a keepy-uppy counter project, a user would press a button to keep count of the amount of times they keep the ball in the air.
+Σε ένα έργο μετρητή Keey-uppy, ένας χρήστης θα πατούσε ένα κουμπί για να καταμετρήσει πόσες φορές αναπηδά η μπάλα στον αέρα.
 
-If you want to create a counter for your activity, or want a way for the user to change the song while dancing, then you will need to use events!
+Εάν θέλεις να δημιουργήσεις έναν μετρητή για τη δραστηριότητά σου ή θέλεις έναν τρόπο να αλλάξει ο χρήστης το τραγούδι ενώ χορεύει, τότε θα χρειαστεί να χρησιμοποιήσεις συμβάντα!
 
 \--- /collapse ---
 
-Of course, you can use a combination of both loops and events for your active assistant if your idea calls for it.
+Φυσικά, μπορείς να χρησιμοποιήσεις έναν συνδυασμό βρόχων και συμβάντων για τον ενεργό βοηθό σου, εάν το απαιτεί η ιδέα σου.
 
-### Choose your loop or events
+### Επίλεξε βρόχο ή συμβάντα
 
 \--- task ---
 
-Decide which type of block you are going to use.
+Αποφάσισε ποιον τύπο μπλοκ θα χρησιμοποιήσεις.
 
-#### Loops
+#### Βρόχοι
 
 [[[microbit-forever-loop]]]
 
@@ -46,45 +46,45 @@ Decide which type of block you are going to use.
 
 [[[microbit-for-loop]]]
 
-#### Events
+#### Συμβάντα
 
 [[[microbit-button-trigger]]]
 
 [[[microbit-gesture-trigger]]]
 
-Add the blocks you need into your workspace.
+Πρόσθεσε τα μπλοκ που χρειάζεσαι στον χώρο εργασίας σου.
 
 \--- /task ---
 
-### Add in some Logic
+### Πρόσθεσε λίγη Λογική
 
-Earlier, you added some code to let the user **start** the activity. You need to make sure you use the `started`{:class='microbitvariables'} variable to control when the activity is running.
-
-\--- task ---
-
-Get an `if`{:class='microbitlogic'} block from the `Logic`{:class='microbitlogic'} menu.
-
-Place it inside the loop or event(s) you have decided to use.
-
-\--- /task ---
+Νωρίτερα, πρόσθεσες κώδικα για να επιτρέψεις στον χρήστη να **ξεκινήσει** τη δραστηριότητα. Πρέπει να βεβαιωθείς ότι χρησιμοποιείς τη μεταβλητή `ξεκίνησα`{:class='microbitvariables'} για να ελέγχεις πότε εκτελείται η δραστηριότητα.
 
 \--- task ---
 
-Open the `Logic`{:class='microbitlogic'} menu and get the `0 = 0`{:class='microbitlogic'} block.
+Πάρε ένα μπλοκ `εάν`{:class='microbitlogic'} από το μενού Λογική{:class='microbitlogic'}.
 
-Place it inside the `true`{:class='microbitlogic'} part of the `if`{:class='microbitlogic'} statement.
+Τοποθέτησε το μέσα στο βρόχο ή μέσα στο(α) συμβάν(τα) που αποφάσισες να χρησιμοποιήσεις.
 
 \--- /task ---
 
 \--- task ---
 
-Now get a `started`{:class='microbitvariables'} block and a `true`{:class='microbitlogic'} block and place them either side of the `=`{:class='microbitlogic'} symbol.
+Άνοιξε το μενού Λογική{:class='microbitlogic'} και επίλεξε το μπλοκ `0 = 0`{:class='microbitlogic'}.
+
+Τοποθέτησε το στην περιοχή `αληθές`{:class="microbitlogic"} της εντολής `εάν`.{:class="microbitlogic"}.
 
 \--- /task ---
 
-Your loop or event should now look something like this (the exact loop or event might be different):
+\--- task ---
 
-#### Loops
+Τώρα πάρε ένα μπλοκ `ξεκίνησα`{:class='microbitvariables'} και ένα μπλοκ `αληθές`{:class='microbitlogic'} και τοποθέτησέ τα εκατέρωθεν του συμβόλου `=`{:class='microbitlogic'}.
+
+\--- /task ---
+
+Ο βρόχος ή το συμβάν σου θα πρέπει τώρα να μοιάζει κάπως έτσι (ο ακριβής βρόχος ή το συμβάν μπορεί να είναι διαφορετικό):
+
+#### Βρόχοι
 
 ```microbit
 basic.forever(function () {
@@ -94,7 +94,7 @@ basic.forever(function () {
 })
 ```
 
-#### Events
+#### Συμβάντα
 
 ```microbit
 input.onButtonPressed(Button.A, function () {
@@ -107,31 +107,31 @@ input.onButtonPressed(Button.A, function () {
 
 \--- task ---
 
-**Test your program**
+**Δοκίμασε το έργο σου**
 
-Place a `show icon`{:class='microbitbasic'} block inside the `if`{:class='microbitlogic'} block.
+Σύρε το μπλοκ `εμφάνιση εικονιδίου`{:class='microbitbasic'} μέσα στο μπλοκ `εάν`{:class='microbitlogic'}.
 
-Run the program and check whether your **start-up** event causes the icon to show.
+Εκτέλεσε το πρόγραμμα και έλεγξε εάν το συμβάν **αρχική οθόνη** προκαλεί την εμφάνιση του εικονιδίου.
 
 \--- /task ---
 
-You are now ready to put together the rest of your assistant, knowing your user can start the activity whenever they like!
+Τώρα είσαι έτοιμος/η να προγραμματίσεις τα υπόλοιπα τμήμτα του βοηθού σου, γνωρίζοντας ότι ο χρήστης σου μπορεί να ξεκινήσει τη δραστηριότητα όποτε θέλει!
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  When you're <span style="color: #0faeb0">**active**</span>, you have more energy to play and learn. It's like charging a battery; the more you move, the more power you have for the day.
+  Όταν είσαι <span style="color: #0faeb0">**ενεργός/η**</span>, έχεις περισσότερη ενέργεια να παίξεις και να μάθεις. Είναι σαν να φορτίζεις μια μπαταρία: όσο περισσότερο κινείσαι, τόσο περισσότερη δύναμη έχεις για την ημέρα.
 </p>
 
-### Create your assistant
+### Δημιούργησε τον βοηθό σου
 
-The things you need to put inside your loop or event will depend on what type of activity you want to do.
+Τα πράγματα που πρέπει να τοποθετήσεις στον βρόχο ή στο συμβάν σου θα εξαρτηθούν από τον τύπο δραστηριότητας που θέλεις να κάνεις.
 
 \--- task ---
 
-Use your micro:bit skills to create your assistant.
+Χρησιμοποίησε τις δεξιότητες του micro:bit για να δημιουργήσεις τον βοηθό σου.
 
-Here are some reminders of things you have already done in the Explore projects that you might want to use for your assistant.
+Ακολουθούν ορισμένες υπενθυμίσεις για πράγματα που έχεις ήδη κάνει στα έργα Εξερεύνησης που ίσως θέλεις να χρησιμοποιήσεις για τον βοηθό σου.
 
-#### Use the LEDs
+#### Να κάνει χρήση των LED
 
 [[[microbit-icons]]]
 
@@ -141,19 +141,19 @@ Here are some reminders of things you have already done in the Explore projects 
 
 [[[microbit-plot-graph]]]
 
-#### Use sensors
+#### Να χρησιμοποιεί αισθητήρες
 
 [[[microbit-mic]]]
 
 [[[microbit-fine-movement]]]
 
-#### Sound
+#### Ήχος
 
 [[[microbit-playing-sounds]]]
 
 [[[microbit-volume]]]
 
-#### Other
+#### Άλλο
 
 [[[microbit-timer]]]
 
@@ -161,17 +161,17 @@ Here are some reminders of things you have already done in the Explore projects 
 
 [[[microbit-making-choices]]]
 
-Have a look over the projects you have made throughout the path for inspiration for your assistant.
+Ρίξε μια ματιά στα έργα που έχεις κάνει σε όλη τη διαδρομή για να πάρεις έμπνευση για τον βοηθό σου.
 
 \--- /task ---
 
 \--- task ---
 
-**Test** your assistant.
+**Δοκίμασε** τον βοηθό σου.
 
-Make sure it works how you want it to. The activity will not end yet (you will do that in the next step), but you should be able to see how it would work.
+Βεβαιώσου ότι λειτουργεί όπως θέλεις. Η δραστηριότητα δεν θα τελειώσει ακόμα (θα το κάνεις στο επόμενο βήμα), αλλά θα πρέπει να μπορείς να δεις πώς θα λειτουργούσε.
 
-Make sure to download it onto a physical micro:bit if you have one, to see how it would work in the real world.
+Φρόντισε να το κατεβάσεις σε ένα φυσικό micro:bit αν έχεις ένα, για να δεις πώς θα λειτουργούσε στον πραγματικό κόσμο.
 
 [[[download-to-microbit]]]
 
