@@ -1,14 +1,14 @@
-## Upgrade your project
+## Améliorer ton projet
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You could upgrade your project by adding more instructions, allowing the users to choose a difficulty, or logging the data from the results!
+Tu pourrais améliorer ton projet en ajoutant plus d'instructions, en permettant aux utilisateurs·trices de choisir une difficulté ou en enregistrant les données des résultats !
 </div>
 </div>
 
 \--- task ---
 
-Try adding more to your start-up screen, maybe some instructions for the actual activity? Or another animation? Maybe a countdown timer?
+Essaie d'en ajouter d'autres à ton écran d'accueil, peut-être des instructions d'activité ? Ou une autre animation ? Peut-être un compte à rebours ?
 
 [[[microbit-icons]]]
 
@@ -22,7 +22,7 @@ Try adding more to your start-up screen, maybe some instructions for the actual 
 
 \--- task ---
 
-You can also allow the user to make some choices about the functionality of the assistant.
+Tu peux aussi permettre à l’utilisateur·trice de faire certains choix concernant les fonctionnalités de l’assistant·e.
 
 [[[microbit-making-choices]]]
 
@@ -30,7 +30,7 @@ You can also allow the user to make some choices about the functionality of the 
 
 \--- task ---
 
-If you are using a V2 micro:bit you might also want to log the results to use as a **highscore** or a record of the activity the user has completed.
+Si tu utilises un micro:bit V2, tu veux peut-être aussi enregistrer les résultats pour les utiliser comme **meilleur score** ou comme enregistrement de l'activité terminée par l'utilisateur.
 
 [[[microbit-datalogging]]]
 
