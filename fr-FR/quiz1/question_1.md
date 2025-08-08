@@ -1,51 +1,51 @@
-## Quick quiz
+## Questionnaire rapide
 
-Answer the three questions. There are hints to guide you to the correct answer.
+Réponds aux trois questions. Il y a des indices pour te guider vers la bonne réponse.
 
-When you have answered each question, click on **Check my answer**.
+Lorsque tu as répondu à chaque question, clique sur **Vérifier ma réponse**.
 
-Have fun!
+Amuse-toi bien !
 
 \--- question ---
 
 ---
 
-## legend: Question 1 of 3
+## legend: Question 1 sur 3
 
-In your project you created a screen to greet your user. Which event block did you use to display it?
+Dans ton projet, tu as créé un écran pour accueillir ton utilisateur·trice. Quel bloc d'événements as-tu utilisé pour l'afficher ?
 
 \--- choices ---
 
 - (x)
 
-`on start`{:class='microbitbasic'}
+`au démarrage`{:class='microbitbasic'}
 
 \--- feedback ---
-Yes, this is the event that runs at the beginning of your program!
+Oui, c'est l'événement qui se déroule au début de ton programme !
 \--- /feedback ---
 
 - ( )
 
-`forever`{:class='microbitbasic'}
+`toujours`{:class='microbitbasic'}
 
 \--- feedback ---
-The `forever`{:class='microbitbasic'} block is a **loop** that constantly repeats while your program is running. If you put something in here it will be shown again and again.
+Le bloc `toujours`{:class='microbitbasic'} est une **boucle** qui se répète constamment pendant l'exécution de ton programme. Si tu mets quelque chose ici, il sera affiché encore et encore.
 \--- /feedback ---
 
 - ( )
 
-`on button A pressed`{:class='microbitinput'}
+`lorsque le bouton A est pressé`{:class='microbitinput'}
 
 \--- feedback ---
-This event only happens when the user presses Button A, not automatically when you run the program.
+Cet événement se produit uniquement lorsque l'utilisateur appuie sur le bouton A, pas automatiquement lorsque tu exécutes le programme.
 \--- /feedback ---
 
 - ( )
 
-`on shake`{:class='microbitinput'}
+`lorsque secouer`{:class='microbitinput'}
 
 \--- feedback ---
-Shake is a gesture, and this event would only happen when the user shakes the microbit, not automatically at the beginning of the program.
+Secouer est un geste, et cet événement ne se produirait que lorsque l'utilisateur secoue le microbit, pas automatiquement au début du programme.
 \--- /feedback ---
 
 \--- /choices ---
