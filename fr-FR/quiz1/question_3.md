@@ -2,40 +2,40 @@
 
 ---
 
-## legend: Question 3 of 3
+## legend: Question 3 sur 3
 
-You built your assistant by breaking it into parts and building them in order. Which order represents the program you made?
+Tu as créé ton assistant·e actif·ve en le ou la décomposant en parties et en les construisant dans l'ordre. Quel ordre représente le programme que tu as créé ?
 
 \--- choices ---
 
 - ( )
 
-1. Activity
+1. Activité
 2. Instructions
-3. Results
+3. Résultats
 
 \--- feedback ---
-The user probably needs to know the instructions before starting the activity.
+L'utilisateur·trice a probablement besoin de connaître les instructions avant de commencer l'activité.
 \--- /feedback ---
 
 - ( )
 
-1. Results
+1. Résultats
 2. Instructions
-3. Activity
+3. Activité
 
 \--- feedback ---
-There might not be anything to show if you display the results before the activity.
+Il se peut qu'il n'y ait rien à afficher si tu affiches les résultats avant l'activité.
 \--- /feedback ---
 
 - (x)
 
 1. Instructions
-2. Activity
-3. Results
+2. Activité
+3. Résultats
 
 \--- feedback ---
-Yes! You created a start-up screen with instructions, you then made the activity using **loops** or **events**, and finally you displayed an end screen with some results!
+Oui ! Tu as créé un écran d'accueil avec des instructions, puis tu as créé l'activité avec des **boucles** ou des **événements**, et enfin tu as affiché un écran de fin avec des résultats !
 \--- /feedback ---
 
 \--- /choices ---
