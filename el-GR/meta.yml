@@ -5,7 +5,7 @@ description: Δημιούργησε έναν βοηθό για να σε βοη�
 version: 1
 listed: true
 copyedit: true
-last_tested: '2023-09-26'
+last_tested: '2025-06-27'
 steps:
   - 
     title: Εισαγωγή
@@ -32,5 +32,3 @@ steps:
     title: Αναβάθμισε το έργο σου
   - 
     title: Μοιράσου και παίξε
-  - 
-    title: Και τώρα;
