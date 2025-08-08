@@ -1,26 +1,26 @@
 ---
-title: Active assistant
+title: Assistant·e actif·ve
 hero_image: images/banner.png
-description: Create an assistant to help you when doing your favourite type of exercise!
+description: Crée un·e assistant·e pour t'aider à réaliser ton type d’exercice préféré !
 version: 1
 listed: true
 copyedit: true
-last_tested: '2023-09-26'
+last_tested: '2025-06-27'
 steps:
   - 
     title: Introduction
   - 
-    title: Start-up screen
+    title: Page d'accueil
     completion:
       - engaged
   - 
-    title: Loops or events?
+    title: Boucles ou événements ?
   - 
-    title: Ending the activity
+    title: Fin de l'activité
     completion:
       - internal
   - 
-    title: Reflection
+    title: Réflexion
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -29,8 +29,6 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Améliorer ton projet
   - 
-    title: Share and play
-  - 
-    title: What next?
+    title: Partager et jouer
