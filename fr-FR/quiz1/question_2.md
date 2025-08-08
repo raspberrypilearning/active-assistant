@@ -2,11 +2,11 @@
 
 ---
 
-## legend: Question 2 of 3
+## legend: Question 2 sur 3
 
-In your project you used `Events`{:class='microbitinput'}, `Variables`{:class='microbitvariables'}, and `Logic`{:class='microbitlogic'} to allow the user to manually start the activity.
+Dans ton projet, tu as utilisé `Événements`{:class='microbitinput'}, `Variables`{:class='microbitvariables'} et `Logique`{:class='microbitlogic'} pour permettre à l'utilisateur·trice de démarrer manuellement l'activité.
 
-Which of these code blocks would allow a user to manually start an active assistant?
+Lequel de ces blocs de code permettrait à un·e utilisateur·trice de démarrer manuellement un·e assistant·e actif·ve ?
 
 \--- choices ---
 
@@ -20,7 +20,7 @@ input.onButtonPressed(Button.A, function () {
 ```
 
 \--- feedback ---
-Yes, this would start an active assistant when the user presses A!
+Oui, cela démarrerait un·e assistant·e actif·ve lorsque l'utilisateur·trice appuie sur A !
 \--- /feedback ---
 
 - ( )
@@ -33,7 +33,7 @@ input.onButtonPressed(Button.A, function () {
 ```
 
 \--- feedback ---
-This would **stop** an activity, not start it.
+Cela **arrêterait** une activité, sans la démarrer.
 \--- /feedback ---
 
 - ( )
@@ -46,7 +46,7 @@ basic.forever(function () {
 ```
 
 \--- feedback ---
-If you had this code in your program, the activity could **never** start.
+Si tu as ce code dans ton programme, l'activité ne pourrait **jamais** démarrer.
 \--- /feedback ---
 
 - ( )
@@ -56,7 +56,7 @@ let started = true
 ```
 
 \--- feedback ---
-This would start the activity, but it would happen right away — even if the user didn't want it to start yet.
+Cela démarrerait l'activité, mais cela se produirait immédiatement, même si l'utilisateur·trice ne voulait pas encore qu'elle démarre.
 \--- /feedback ---
 
 \--- /choices ---
