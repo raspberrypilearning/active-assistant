@@ -1,62 +1,62 @@
-## Ending the activity
+## Fin de l'activité
 
-Awesome work so far! You now have an assistant that will help you or someone else get active.
+Excellent travail jusqu'à présent ! Tu disposes désormais d’un·e assistant·e qui t'aidera, toi ou quelqu’un d’autre, à devenir actif·ve.
 
-The final thing to do is to add some code so the activity stops.
+La dernière chose à faire est d’ajouter du code pour que l’activité s’arrête.
 
-### When to stop?
+### Quand s'arrêter ?
 
 \--- task ---
 
-**Choose:** How you would like your activity to stop.
+**Choisir :** comment tu souhaites que ton activité s'arrête.
 
-You can use **events** to stop the activity, such as a button press or gesture.
+Tu peux utiliser des **événements** pour arrêter l'activité, comme une pression sur un bouton ou un geste.
 
-OR
+OU
 
-You can use **selection**, such as an `if`{:class='microbitlogic'} statement in your **loop** to end your activity.
+Tu peux utiliser une **sélection**, telle qu'une instruction `si`{:class='microbitlogic'} dans ta **boucle** pour terminer ton activité.
 
-Decide which makes the most sense for your activity, and if you aren't sure which to use, then go for an event.
+Décide ce qui convient le mieux à ton activité, et si tu n'es pas sûr de celui à utiliser, opte pour un événement.
 
 \--- /task ---
 
 \--- task ---
 
-Add the event or the `if`{:class='microbitlogic'} block to your project.
+Ajoute l'événement ou le bloc `si`{:class='microbitlogic'} à ton projet.
 
-#### Events
+#### Événements
 
 [[[microbit-button-trigger]]]
 
 [[[microbit-gesture-trigger]]]
 
-#### if blocks
+#### blocs si
 
 [[[microbit-selection]]]
 
 \--- /task ---
 
-### How to stop?
+### Comment arrêter ?
 
-To stop, you have to change the `started`{:class='microbitvariables'} variable from `true`{:class='microbitlogic'} to `false`{:class='microbitlogic'}.
+Pour arrêter, tu dois changer la variable `démarré`{:class='microbitvariables'} de `vrai`{:class='microbitlogic'} à `faux`{:class='microbitlogic'}.
 
 \--- task ---
 
-Drag a `set`{:class='microbitvariables'} block from the Toolbox into your event or `if`{:class='microbitlogic'} block.
+Fais glisser un bloc `définir`{:class='microbitvariables'} de la boîte à outils dans ton événement ou `si`{:class='microbitlogic'}.
 
-Get a `true`{:class='microbitlogic'} block and replace the `0` in the `set`{:class='microbitvariables'} block with it.
+Prends un bloc `vrai`{:class='microbitlogic'} et remplace le `0` dans le bloc `définir`{:class='microbitvariables'} par celui-ci.
 
 \--- collapse ---
 
 ---
 
-## title: Use the same event to start and end the activity
+## title: Utiliser le même événement pour démarrer et terminer l'activité
 
-If you have used events for your assistant, you might not have many unused events left or a place to put an `if`{:class='microbitlogic'} block to end the activity.
+Si tu as utilisé des événements pour ton assistant·e, il se peut que tu n'aies plus beaucoup d'événements inutilisés ou d'endroit où placer un bloc `si`{:class='microbitlogic'} pour terminer l'activité.
 
-That's not a problem — you can use the same event to begin and end the activity.
+Ce n’est pas un problème : tu peux utiliser le même événement pour commencer et terminer l’activité.
 
-You just need to use an `if...else`{:class='microbitlogic'} block to control what the `started`{:class='microbitvariables'} variable is set to.
+Il te suffit d'utiliser un bloc `si...sinon`{:class='microbitlogic'} pour contrôler la valeur définie pour la variable `démarré`{:class='microbitvariables'}.
 
 ```microbit
 let started = false
@@ -73,13 +73,13 @@ input.onButtonPressed(Button.A, function () {
 
 \--- /task ---
 
-### End screen
+### Écran de fin
 
-The final step is to create an **end screen**. This might be the score or count you kept, or a inspirational message to make your user feel good about their activity.
+La dernière étape consiste à créer un **écran de fin**. Il peut s'agir du score ou du décompte que tu as conservé, ou d'un message inspirant pour que ton utilisateur·trice se sente bien dans son activité.
 
 \--- task ---
 
-Add some code that uses the LEDs to create your end screen. Place it below the `set started to`{:class='microbitvariables'} `false`{:class='microbitlogic'} block.
+Ajoute du code qui utilise les LED pour créer ton écran final. Place-le sous le bloc `définir démarré à`{:class='microbitvariables'} `faux`{:class='microbitlogic'}.
 
 [[[microbit-icons]]]
 
@@ -89,30 +89,30 @@ Add some code that uses the LEDs to create your end screen. Place it below the `
 
 \--- /task ---
 
-### Test your assistant
+### Tester ton assistant·e
 
 \--- task ---
 
-**Test** your program on the simulator, then download the program onto your physical micro:bit and test it out for real!
+**Teste** ton programme sur le simulateur, puis télécharge le programme sur ton micro:bit physique et teste-le en vrai !
 
-Make sure you are happy with:
+Assure-toi d'être satisfait·e avec :
 
-- The start-up screen
-- Starting the activity
-- Completing the activity
-- Ending the activity
-- The end screen
+- L'écran de démarrage
+- Démarrage de l'activité
+- Réalisation de l'activité
+- Fin de l'activité
+- L'écran de fin
 
 \--- /task ---
 
 \--- task ---
 
-**Debug:**
+**Débogage :**
 
-Make sure to use `pause`{:class='microbitbasic'} blocks to space out your programs.
+Assure-toi d'utiliser des blocs `pause`{:class='microbitbasic'} pour espacer tes programmes.
 
-You can use `clear screen`{:class='microbitbasic'} blocks to clean up the **UI** and make it exactly like you want.
+Tu peux utiliser les blocs `effacer l'écran`{:class='microbitbasic'} pour nettoyer l'**interface utilisateur** et la rendre exactement comme tu veux.
 
-Make sure you set your `Variables`{:class='microbitvariables'} at the start to the values you want them to start with.
+Assure-toi de définir tes `Variables`{:class='microbitvariables'} au début sur les valeurs avec lesquelles tu souhaites commencer.
 
 \--- /task ---
