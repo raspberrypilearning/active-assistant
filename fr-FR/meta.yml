@@ -1,0 +1,27 @@
+---
+title: Assistant·e actif·ve
+hero_image: images/banner.png
+description: Crée un·e assistant·e pour t'aider à réaliser ton type d’exercice préféré !
+version: 1
+listed: true
+copyedit: true
+last_tested: '2025-06-27'
+steps:
+- title: Introduction
+- title: Page d'accueil
+  completion:
+    - engaged
+- title: Boucles ou événements ?
+- title: Fin de l'activité
+  completion:
+    - internal
+- title: Réflexion
+  knowledge_quiz:
+    path: quiz1
+    version: 1
+    questions: 3
+    passing_score: 3
+  completion:
+    - external
+- title: Améliorer ton projet
+- title: Partager et jouer
