@@ -1,18 +1,18 @@
-## Loops or events?
+## Boucles ou événements ?
 
-Now you have created a way to start the program, it's time to make the parts of the program that will assist you with the activity.
+Maintenant que tu as créé un moyen de démarrer le programme, il est temps de créer les parties du programme qui t'aideront dans l'activité.
 
-You can choose to use **loops** or **events** for these parts of your program.
+Tu peux choisir d'utiliser des **boucles** ou des **événements** pour ces parties de ton programme.
 
 \--- collapse ---
 
 ---
 
-## title: Why use a loop?
+## title: Pourquoi utiliser une boucle ?
 
-Using a loop is a good choice if your assistant is going to **guide** the activity.
+L’utilisation d’une boucle est un bon choix si ton assistant·e doit **guider** l’activité.
 
-An example of a guided activity is the bleep test, where the micro:bit tells the user when to start their next run. Other examples are stretching or dancing activities.
+Un exemple d'activité guidée est le test navette, où le micro:bit indique à l'utilisateur·trice quand commencer sa prochaine course. D’autres exemples sont les activités d’étirement ou de danse.
 
 \--- /collapse ---
 
@@ -20,25 +20,25 @@ An example of a guided activity is the bleep test, where the micro:bit tells the
 
 ---
 
-## title: Why use events?
+## title: Pourquoi utiliser des événements ?
 
-Events are a good choice if you want your user to interact with the assistant while the activity is happening.
+Les événements sont un bon choix si tu veux que ton utilisateur·trice interagisse avec l'assistant·e pendant que l'activité se déroule.
 
-In a keepy-uppy counter project, a user would press a button to keep count of the amount of times they keep the ball in the air.
+Dans un projet de compteur de maintien de la balle, un·e utilisateur·trice appuie sur un bouton pour comptabiliser le nombre de fois qu'il ou elle maintient la balle en l'air.
 
-If you want to create a counter for your activity, or want a way for the user to change the song while dancing, then you will need to use events!
+Si tu veux créer un compteur pour ton activité, ou tu veux un moyen pour l'utilisateur·trice de changer la chanson en dansant, alors tu devras utiliser les événements !
 
 \--- /collapse ---
 
-Of course, you can use a combination of both loops and events for your active assistant if your idea calls for it.
+Bien sûr, tu peux utiliser une combinaison de boucles et d’événements pour ton assistant·e actif·ve si ton idée l’exige.
 
-### Choose your loop or events
+### Choisir ta boucle ou tes événements
 
 \--- task ---
 
-Decide which type of block you are going to use.
+Décide quel type de bloc tu vas utiliser.
 
-#### Loops
+#### Boucles
 
 [[[microbit-forever-loop]]]
 
@@ -46,45 +46,45 @@ Decide which type of block you are going to use.
 
 [[[microbit-for-loop]]]
 
-#### Events
+#### Événements
 
 [[[microbit-button-trigger]]]
 
 [[[microbit-gesture-trigger]]]
 
-Add the blocks you need into your workspace.
+Ajoute les blocs dont tu as besoin dans ton espace de travail.
 
 \--- /task ---
 
-### Add in some Logic
+### Ajouter un peu de logique
 
-Earlier, you added some code to let the user **start** the activity. You need to make sure you use the `started`{:class='microbitvariables'} variable to control when the activity is running.
-
-\--- task ---
-
-Get an `if`{:class='microbitlogic'} block from the `Logic`{:class='microbitlogic'} menu.
-
-Place it inside the loop or event(s) you have decided to use.
-
-\--- /task ---
+Plus tôt, tu as ajouté du code pour permettre à l'utilisateur·trice de **démarrer** l'activité. Tu dois t'assurer d'utiliser la variable `démarré`{:class='microbitvariables'} pour contrôler le moment où l'activité est en cours d'exécution.
 
 \--- task ---
 
-Open the `Logic`{:class='microbitlogic'} menu and get the `0 = 0`{:class='microbitlogic'} block.
+Prends un bloc `si`{:class='microbitlogic'} dans le menu `Logique`{:class='microbitlogic'}.
 
-Place it inside the `true`{:class='microbitlogic'} part of the `if`{:class='microbitlogic'} statement.
+Place-le dans la boucle ou le(s) événement(s) que tu viens de créer.
 
 \--- /task ---
 
 \--- task ---
 
-Now get a `started`{:class='microbitvariables'} block and a `true`{:class='microbitlogic'} block and place them either side of the `=`{:class='microbitlogic'} symbol.
+Ouvre le menu `Logique`{:class='microbitlogic'} et choisis le bloc `0 = 0`{:class='microbitlogic'}.
+
+Place-le à l'intérieur de la partie `vrai`{:class='microbitlogic'} de la déclaration `si`{:class='microbitlogic'}.
 
 \--- /task ---
 
-Your loop or event should now look something like this (the exact loop or event might be different):
+\--- task ---
 
-#### Loops
+Maintenant, prends un bloc `démarré`{:class='microbitvariables'} et un bloc `vrai`{:class='microbitlogic'} et place-les de part et d'autre du symbole `=`{:class='microbitlogic'}.
+
+\--- /task ---
+
+Ta boucle ou événement devrait maintenant ressembler à quelque chose comme ça (la boucle exacte ou l'événement pourrait être différent) :
+
+#### Boucles
 
 ```microbit
 basic.forever(function () {
@@ -94,7 +94,7 @@ basic.forever(function () {
 })
 ```
 
-#### Events
+#### Événements
 
 ```microbit
 input.onButtonPressed(Button.A, function () {
@@ -107,31 +107,31 @@ input.onButtonPressed(Button.A, function () {
 
 \--- task ---
 
-**Test your program**
+**Teste ton programme**
 
-Place a `show icon`{:class='microbitbasic'} block inside the `if`{:class='microbitlogic'} block.
+Place un bloc `montrer l'icône`{:class='microbitbasic'} à l'intérieur du bloc `si`{:class='microbitlogic'}.
 
-Run the program and check whether your **start-up** event causes the icon to show.
+Exécute le programme et vérifie si l'événement de **démarrage** provoque l'affichage de l'icône.
 
 \--- /task ---
 
-You are now ready to put together the rest of your assistant, knowing your user can start the activity whenever they like!
+Tu es maintenant prêt·e à assembler le reste de ton assistant·e, sachant que ton utilisateur·trice peut démarrer l'activité quand il ou elle le souhaite !
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  When you're <span style="color: #0faeb0">**active**</span>, you have more energy to play and learn. It's like charging a battery; the more you move, the more power you have for the day.
+  Lorsque tu es <span style="color: #0faeb0">**actif·ve**</span>, tu as plus d'énergie pour jouer et apprendre. C'est comme charger une batterie ; plus tu bouges, plus tu as d'énergie pour la journée.
 </p>
 
-### Create your assistant
+### Créer ton assistant·e
 
-The things you need to put inside your loop or event will depend on what type of activity you want to do.
+Les choses que tu dois mettre dans ta boucle ou ton événement dépendront du type d'activité souhaité.
 
 \--- task ---
 
-Use your micro:bit skills to create your assistant.
+Utilise tes compétences micro:bit pour créer ton assistant·e.
 
-Here are some reminders of things you have already done in the Explore projects that you might want to use for your assistant.
+Voici quelques rappels de ce que tu as déjà fait dans les projets Explorer et que tu pourrais utiliser pour ton assistante·e.
 
-#### Use the LEDs
+#### Utiliser les LED
 
 [[[microbit-icons]]]
 
@@ -141,19 +141,19 @@ Here are some reminders of things you have already done in the Explore projects 
 
 [[[microbit-plot-graph]]]
 
-#### Use sensors
+#### Utiliser des capteurs
 
 [[[microbit-mic]]]
 
 [[[microbit-fine-movement]]]
 
-#### Sound
+#### Son
 
 [[[microbit-playing-sounds]]]
 
 [[[microbit-volume]]]
 
-#### Other
+#### Autre
 
 [[[microbit-timer]]]
 
@@ -161,17 +161,17 @@ Here are some reminders of things you have already done in the Explore projects 
 
 [[[microbit-making-choices]]]
 
-Have a look over the projects you have made throughout the path for inspiration for your assistant.
+Jette un œil aux projets que tu as réalisés auparavant pour t'en inspirer dans tes réponses pour ton assistant·e.
 
 \--- /task ---
 
 \--- task ---
 
-**Test** your assistant.
+**Teste** ton assistant·e.
 
-Make sure it works how you want it to. The activity will not end yet (you will do that in the next step), but you should be able to see how it would work.
+Assure-toi que cela fonctionne comme tu veux. L'activité ne se termine pas encore (tu le feras à l'étape suivante), mais tu devras pouvoir voir comment cela fonctionne.
 
-Make sure to download it onto a physical micro:bit if you have one, to see how it would work in the real world.
+Assure-toi de le télécharger sur un micro:bit physique si tu en as un, pour voir comment cela fonctionnerait dans le monde réel.
 
 [[[download-to-microbit]]]
 
