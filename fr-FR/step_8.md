@@ -1,38 +1,38 @@
-## What next?
+## Et ensuite ?
 
-If you are following the [Introduction to micro:bit](https://projects.raspberrypi.org/en/raspberrypi/microbit-intro) path, you can move on to the [Party game](https://projects.raspberrypi.org/en/projects/party-game) project. In this project, you will make a version of your favourite party game to play with your friends and family.
+Si tu suis le parcours [Introduction à micro:bit](https://projects.raspberrypi.org/en/raspberrypi/microbit-intro), tu peux passer au projet [Jeu festif](https://projects.raspberrypi.org/en/projects/party-game). Dans ce projet, tu créeras une version de ton jeu de société préféré pour jouer avec tes ami·e·s et ta famille.
 
 \--- no-print ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Musical chairs
+### Chaises musicales
 
-In this project, the micro:bit is used to control a game of musical chairs.
+Dans ce projet, le micro:bit est utilisé pour contrôler un jeu de chaises musicales.
 
-The number of players is set to `4`, so line up `3` chairs to play the game!
+Le nombre de joueur·ses est fixé à « 4 », alors aligne « 3 » chaises pour jouer au jeu !
 
-- Watch the start-up animation of someone sitting on a chair.
-- A flashing arrow points to the touch logo.
-- When you touch the logo:
-  - You are shown a 3,2,1 countdown, then a picture of an empty chair.
-  - A melody plays for a random amount of time (between 3 and 15 seconds).
-  - All players should move around the chairs while the music plays!
-  - When the music stops, a 'sit down' animation is shown.
-  - All players should try to sit on a chair. The player left standing is removed from the game.
-  - If there is more than one player still in the game, `-1` is shown to tell you to remove a chair and a flashing arrow points to the touch logo again.
-  - When there is only one chair left, the person to sit on it wins (and a smiley face icon is shown).
+- Regarde l'animation de démarrage de quelqu'un assis sur une chaise.
+- Une flèche clignotante pointe vers le logo tactile.
+- Lorsque tu touches le logo :
+  - On te montre un compte à rebours 3, 2, 1, puis une image d'une chaise vide.
+  - Une mélodie est jouée pendant une durée aléatoire (entre 3 et 15 secondes).
+  - Tous les joueur·ses doivent se déplacer autour des chaises pendant que la musique joue !
+  - Lorsque la musique s'arrête, une animation « assis » s'affiche.
+  - Tous les joueur·ses doivent essayer de s’asseoir sur une chaise. Le joueur ou la joueuse resté·e debout est retiré·e du jeu.
+  - S'il reste plus d'un·e joueur·se dans la partie, « -1 » s'affiche pour t'indiquer de retirer une chaise et une flèche clignotante pointe à nouveau vers le logo tactile.
+  - Lorsqu'il ne reste qu'une seule chaise, la personne qui s'assoit dessus gagne (et une icône de visage souriant s'affiche).
 
-You can set the number of players using the A and B buttons.
+Tu peux définir le nombre de joueur·ses à l'aide des boutons A et B.
 
-You can shake the micro:bit to reset the game back to `4` players.
+Tu peux secouer le micro:bit pour réinitialiser le jeu à « 4 » joueur·ses.
 
 </div>
 
 <div>
 
-[👀 See the code 👀](https://makecode.microbit.org/_8o7R5MEfC4m3){:target="_blank"}
+[👀 Voir le code 👀](https://makecode.microbit.org/_8o7R5MEfC4m3){:target="_blank"}
 
 <div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_8o7R5MEfC4m3" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
@@ -42,4 +42,4 @@ You can shake the micro:bit to reset the game back to `4` players.
 
 \--- /no-print ---
 
-If you want to have more fun exploring micro:bit, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?hardware%5B%5D=microbit).
+Si tu souhaites t'amuser davantage en explorant micro:bit, tu peux essayer l'un de [ces projets] (https://projects.raspberrypi.org/en/projects?hardware%5B%5D=microbit).
